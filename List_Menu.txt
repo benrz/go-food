@@ -1,1773 +1,0 @@
-0#0#Whole Bucket Mix Chicken#130455
-0#0#Whole Bucket Hot Crispy Chicken#128636
-0#0#Kareem Chicken Alacarte#20909
-0#0#1 pc Chochicks#19091
-0#0#Salted Egg Pomtilla#19091
-0#0#Original Chicken#16818
-0#0#Spaghetti Supreme#16818
-0#0#Hot Crispy Chicken#15909
-0#0#French Fries Regular#14545
-0#0#Twisty#14091
-0#0#Original Bento#14091
-0#0#Deluxe Burger#8182
-0#0#KFC Soup#8182
-0#0#Rice#6818
-0#0#Perkedel#5909
-0#1#Pepsi Can#10909
-0#1#Ovaltine#10000
-0#1#Ichi Ocha#8182
-0#1#Super O2#7727
-0#1#Mineral Water#6364
-1#0#Bakmi Tiong Sim Komplit#35000
-1#0#Bakmi Daging Komplit#33000
-1#0#Bakmi Tiong Sim#30000
-1#0#Bakmi Pangsit#30000
-1#0#Bakmi Daging#28000
-1#0#Bakmi Polos#21000
-1#0#Pangsit Daging#28000
-1#0#Pangsit Kuah (5 pcs)#25000
-1#0#Bacang#20000
-1#0#Lumpia Kulit Tahu#20000
-1#0#Hakau Tim#20000
-1#0#Kaki Ayam Tim#20000
-1#0#Cha Siew Pao Tim#20000
-1#0#Mantau Tim#18000
-1#0#Popia Tim#17000
-1#1#Milo Godzila#31000
-1#1#Avocado Coffee#30000
-1#1#Layer Tea#21000
-1#1#Kopi Tarik#21000
-1#1#Chainese Tea#20000
-1#1#Teh Tarik#19000
-1#1#Thai Tea Milk (Hot/Cold)#15000
-1#1#Sun Boi#16000
-1#1#Kopi O#15000
-1#1#Teh Tawar (Hot/Cold)#5000
-2#0#Black Prawn Okoyaki Regular Stuffed Crust#103000
-2#0#Black Super American Favourite#103000
-2#0#Black Supreme Regular Stuffed Crust#93000
-2#0#Black Cheesy Galore Regular Stuffed Crust#93000
-2#0#Black Hawaiian Chicken Stuffed Crust#93000
-2#0#Black Meat Lovers Cheesy Mayo#81000
-2#0#Black Pepperoni Jalapeno Regular Original#81000
-2#0#Black Tuna Melt Regular Original#71000
-2#0#Black Meaty Regular Original#71000
-2#0#Beef Lasagna#48000
-2#0#Tuna Melt Spaghetti#43000
-2#0#Beef Fettuccine#43000
-2#0#Pepperoni Cheese Fusilli#43000
-2#0#Spicy Creamy Chicken Rice#40000
-2#0#Pepchiz#34000
-2#1#Cappucino Jelly#18000
-2#1#Sea Salt Caramel#18000
-2#1#Melon Lemonade#12000
-2#1#Orange Delight#12000
-2#1#Lemon Tea#12000
-2#1#Goji Berry#12000
-3#0#Beef Bowl Citrus (Large)#36000
-3#0#Tempura Curry(Large)#33000
-3#0#Gyu Katsu (Large)#28500
-3#0#Dory With Creamy Tomato (Large)#28500
-3#0#Dory With Soy Sauce Large)#26500
-3#0#Dory Black (Medium)#21500
-3#0#Mushroom Curry (Medium)#21000
-3#0#Chicken Topirikaradon (Medium)#19500
-3#0#Karage Melted Cheese (Medium)#19500
-3#0#Chicken Grill BBQ (Medium)#19500
-3#0#Chicken Katsu (Small)#14000
-3#0#Chicken Karage (Small)#14000
-3#0#Jamur Bbq (Small)#13500
-3#0#Jamur Teriyaki (Small)#13500
-3#0#Jamur Katsu (Small)#13500
-3#1#Milkshake Chocolate#18500
-3#1#Milkshake Strawberry#18500
-3#1#Milkshake Vanilla#18500
-3#1#Milky & Latte Coconut#17000
-3#1#Milky & Latte Milk Tea#17000
-3#1#Milky & Latte Vanilla Blue#17000
-3#1#Ice Blend Avocado#13000
-3#1#Ice Blend Banana#13000
-3#1#Ice Blend Durian#13000
-3#1#Ice Blend Grape#13000
-3#1#Ice Blend Guava#13000
-3#1#Ice Blend Mango#13000
-3#1#Ice Blend Melon#13000
-3#1#Ice Blend Orange#13000
-3#1#Ice Blend Strawberry#13000
-4#0#Indomie Jumbo Telur Kornet Keju#19000
-4#0#Indomie Jumbo Telur Keju#18000 
-4#0#Indomie Telur Kornet#15000
-4#0#Indomie Bakso#12000
-4#0#Roti Telur Kornet Keju#18000
-4#0#Black Burger + Keju#18000 
-4#0#Pisang Panggang Nutella/Ovomaltine#16000
-4#0#Pisang Panggang Cokelat Keju#15000
-4#0#Kentang Goreng#15000
-4#0#Pancake Smoked Beef#15500
-4#0#Tape Keju#15000
-4#0#Pancake Sosis#14500
-4#0#Otak - Otak Goreng#12000
-4#0#Roti Coklat Susu#11500
-4#0#Roti Gula Mentega#11500
-4#1#Bubblegum Marshmallow#16000
-4#1#Iced Frappucino#14000
-4#1#Iced Tiramisu Frappucino#14000
-4#1#Green Tea Latte#13500
-4#1#Taro Latte#13500
-4#1#Orange Squash#11500
-4#1#Kopi Susu Vietnam#11000
-4#1#Bandrek Lada Hitam#11000
-4#1#Stmj#8500
-4#1#Air Mineral Botol#6000
-5#0#Galbitang(Free rice)#49000
-5#0#Jajangmyeon + Oden#44000
-5#0#Classic Ramyun#42000
-5#0#Beef Luncheon Ramyun#41000
-5#0#Cheese Kimchi Bokumbap#41000
-5#0#Dak Galbi Bibimbap#41000
-5#0#Sundubu Jigae (Free Rice)#40000
-5#0#Dolsot Bibimbap#35000
-5#0#Classic Toppoki#33000
-5#0#Japchae#26000
-5#1#Purple Yam#23000
-5#1#Banana Milk + Matcha Pudding#22000
-5#1#Choco Banana + Hazzelnut Pudding#22000
-5#1#Matcha Milk Tea + Asuka Bean#22000
-5#1#Ice Mango#21000
-5#1#Jeju Orange Tea#19000
-5#1#Citrus Honey Tea#19000
-5#1#Korean lemonade#16000
-5#1#Ice Sweet Jasmine Greentea#10000
-5#1#Korean Tea (Hot/Cold)#9000
-5#1#Air Mineral#9000
-6#0#Mie Lebar Jumbo#34000
-6#0#Mie Keriting Jumbo#34000
-6#0#Kwetiau Jumbo#34000
-6#0#Bihun Jumbo#34000
-6#0#Mie Keriting Biasa#24000
-6#0#Mie Lebar Biasa#24000
-6#0#Kwetiau Biasa#24000
-6#0#Bihun Biasa#24000
-6#0#Suikiaw 10 Pcs#55000
-6#0#Nasi Goreng Daging Telor#29000
-6#1#Badak#12000
-6#1#Juskit#12000
-6#1#Markisa#12000
-6#1#Lemon Tea#8000
-6#1#Liang Teh/Es#8000
-6#1#Teh Manis/Es#5000
-6#1#Air Mineral#5000
-6#1#Es Teh Tawa#3000
-6#1#Teh Tawar#1000
-7#0#Seafood Platter Big#82000
-7#0#Fish n Pasta Cheese Melted#46000
-7#0#Seafood Platter Small#45000
-7#0#Fish n Pasta Creamy Sauce#43000
-7#0#Fish n Pasta Marinara Sauce#38000
-7#0#Mac n Cheese#37000
-7#0#Chicken Creamy Fettuchine#36000
-7#0#Crispy Calamary#35000
-7#0#Grill Shrimp#35000
-7#0#Grill Clamary#35000
-7#0#Fish and Chips#35000
-7#0#Fish and Rice#35000
-7#0#Crispy Fish#30000
-7#0#French Fries#22000
-8#0#Ayam Potongan #18000
-8#0#Tahu#3000
-8#0#Tempe#3000
-8#0#Sate Usus#4000
-8#0#Paket Tahu dan Tempe#28000
-8#0#Sate Ati/Ampela#4000
-8#0#Sayur Asem#6000
-8#0#Kerupuk Putih#2000
-8#0#Telor Dadar#5000
-8#0#Nugget 5 buah#12000
-8#1#Es Teh#4000
-8#1#Es Teh Manis#5000
-8#1#Air Mineral#4000
-8#1#S-Tee#5000
-8#1#Teh Botol#5000
-8#1#Fruit Tea#5000
-9#0#Beef Original Bento#41000
-9#0#Chicken Original Bento#38000
-9#0#Beef Curry Ramen#38000
-9#0#Chicken Curry Ramen#36000
-9#0#Burger Katsu Curry Rice#36000 
-9#0#Chicken Katsu Curry#34000
-9#0#Yakimeshi Marumi#32000
-9#0#Donburi 6: Chicken Katsu Curry#30500
-9#0#Donburi 5: Beef Teriyaki#30500
-9#0#Donburi 4: Chicken Teriyaki#27500
-9#0#Donburi 3: Crispy Ebi Tempura#33000
-9#0#Donburi 2 (Dry Mix Special)#30500
-9#0#Donburi 1: Fry Mix#23500
-9#1#Taro Smoothies#27500
-9#1#Manggo Smoothies#27500
-9#1#Avocado Coffee#27500
-9#1#Fresh Melon Juice#24500
-9#1#Fresh Strawberry Juice#24500
-9#1#Fresh Orange#24500
-9#1#Choco Sand Coffee#24500
-9#1#Ice Lemonade#17000
-9#1#Ice Lemon Tea#17000
-9#1#Teh Pucuk Harum#9500
-9#1#Ocha (Hot/Cold)#9500
-9#1#Hot Tea (with Sugar)#8500
-9#1#Air Mineral#8500
-9#1#Ice Tea#7500
-10#0#Celimpungan#29000
-10#0#Lenggang#29000
-10#0#Laksan#29000
-10#0#Pempek Kapal Selam#29000
-10#0#Pangsit Ikan#29000
-10#0#Tekwan#28000
-10#0#Pempek Otak - Otak#9000
-10#0#Pempek Cerewet#9000
-10#0#Pempek Adaan#8000
-10#0#Pempek Keriting#8000
-10#0#Pempek Telur#8000
-10#0#Pempek Pastel#8000
-10#0#Pempek Kulit#8000
-10#0#Pempek Lenjer#8000
-10#1#Ice Lemon Tea#24000
-10#1#Ice Lychee Tea#24000
-10#1#Es Jeruk Peras#18000
-10#1#Juice Alpukat#17000
-10#1#Juice Semangka#16000
-10#1#Juice Melon#16000
-10#1#Es Teh Manis#6000
-10#1#Es Teh Tawar#5000
-10#1#Teh Manis#6000
-10#1#Teh Tawar#5000
-11#0#Martabak Ovomaltine (Large)#94000
-11#0#Martabak Ovomaltine (Reguler)#81000
-11#0#Martabak Nutella (Large)#83000
-11#0#Martabak Nutella (Reguler)#66000
-11#0#Martabak Toblerone (Large)#83000
-11#0#Martabak Toblerone (Reguler)#66000
-11#0#Martabak Coklat Pisang (Large)#55000
-11#0#Martabak Coklat Pisang (Reguler)#42000
-11#0#Martabak Coklat Kacang Wijen (Large)#52000
-11#0#Martabak Coklat Kacang Wijen (Reguler)#39000
-11#0#Martabak Coklat Keju (Large)#55000
-11#0#Martabak Coklat Keju (Reguler)#41000
-11#0#Martabak Coklat Mesis (Large)#47000
-11#0#Martabak Coklat Mesis (Reguler)#33000
-11#0#Martabak Durian Keju (Large)#85000
-11#0#Martabak Durian Keju (Reguler)#70000
-11#0#Martabak Almond Keju (Large)#77000
-11#0#Martabak Almond Keju (Reguler)#64000
-11#0#Martabak Jagung Keju (Large)#58000
-11#0#Martabak Jagung Keju (Reguler)#42000
-11#0#Martabak Pisang Keju (Large)#58000
-11#0#Martabak Pisang Keju (Reguler)#42000
-11#0#Martabak Kismis Keju (Large)#58000
-11#0#Martabak Kismis Keju (Reguler)#42000
-11#0#Martabak Keju (Large)#52000
-11#0#Martabak Keju (Reguler)#39000
-11#0#Martabak 4 Telor Bebek (Ikan Tuna)#61000
-11#0#Martabak 4 Telor Ayam (Ikan Tuna)#55000
-11#0#Martabak 4 Telor Bebek (Daging Sapi)#55000
-11#0#Martabak 4 Telor Ayam (Daging Sapi)#50000
-11#0#Martabak 4 Telor Bebek (Corned Beef)#61000
-11#0#Martabak 4 Telor Ayam (Corned Beef)#50000
-11#0#Martabak 4 Telor Bebek Jagung + Jamur#53000
-11#0#Martabak 4 Telor Ayam Jagung + Jamur#47000
-11#0#Martabak 4 Telor Bebek (Keju)#47000
-11#0#Martabak 4 Telor Ayam (Keju)#42000
-12#1#Avocado Milk Tea Large#32200
-12#1#Avocado Milk Tea Regular#28750
-12#1#Red Velvet Milk Tea Large#32200
-12#1#Red Velvet Milk Tea Regular#28750
-12#1#Taro Milk Tea Large#28750
-12#1#Taro Milk Tea Regular#25300
-12#1#Chocolate Milk Tea Large#28750
-12#1#Chocolate Milk Tea Reguler#25300
-12#1#Honey Milk Tea Large#27600
-12#1#Honey Milk Tea Reguler#24150
-12#1#Oolong Milk Tea Large#27600
-12#1#Oolong Milk Tea Reguler#24150
-12#1#Jasmine Milk Tea Large#27600
-12#1#Jasmine Milk Tea Reguler#24150
-12#1#Coffee Milk Tea Large#27600
-12#1#Coffee Milk Tea Reguler#24150
-12#1#Azuki Matcha Smoothies Large#32200
-12#1#Azuki Matcha Smoothies Reguler#28750
-12#1#Choco Dream Large#32200
-12#1#Choco Dream Reguler#28750
-12#1#Taro Smoothies Large#32200
-12#1#Taro Smoothies Reguler#28750
-12#1#Strawberry Smoothies Large#32200
-12#1#Strawberry Smoothies Reguler#28750
-12#1#Avocado Smoothies Large#32200
-12#1#Avocado Smoothies Reguler#28750
-12#1#Passion Fruit Tea Large#27600
-12#1#Passion Fruit Tea Reguler#24150
-12#1#Peach Ice Tea Large#27600
-12#1#Peach Ice Tea Reguler#24150
-12#1#Sweet Summer Tea Large#29900
-12#1#Sweet Summer Tea Reguler#26450
-12#1#Chocolate Butterscoth Reguler#32200
-12#1#Chocoberry Reguler#32200
-12#1#Chocolate Mint Reguler#32200
-12#1#Vanilla Ice Cream Chocolate Reguler#32200
-12#1#Salted Cream Thai Tea Large#32200
-12#1#Salted Cream Thai Tea Reguler#28750
-12#1#Traditional Thai Tea Large#27600
-12#1#Traditional Thai Tea Reguler#24150
-12#1#Green Thai Tea Smoothies Large#29900
-12#1#Green Thai Tea Smoothies Reguler#26450
-12#1#Dark Chocotea with Seasalt Large#32200
-12#1#Dark Chocotea with Seasalt Reguler#28750
-12#1#Dark Chocomon with Seasalt Large#32200
-12#1#Dark Chocomon with Seasalt Reguler#28750
-13#0#Value Deal 1#65455
-13#0#Value Deal 2#87273
-13#0#Value Deal 3#131818
-13#0#Value Deal 4#140909
-13#0#Italian Supreme Pizza#78182
-13#0#American Classic Cheeseburger Pizza#78182
-13#0#American All Star Pizza#78182
-13#0#Veggie Mania Pizza#78182
-13#0#Chicken Lovers Pizza#78182
-13#0#Cheese Mania Pizza#78182
-13#0#Meatzza Pizza#78182
-13#0#Extravaganzza Pizza#78182
-13#0#Double Beef Burger Pizza#65455
-13#0#Chicken BBQ Pizza#65455
-13#0#Tuna Delight Pizza#65455
-13#0#Beef Pepperoni Feast Pizza#65455
-13#0#Meat & Meat Pizza#65455
-13#0#Cheesy Sausage Pizza#40909
-13#0#Chicken Pepperoni Feast Pizza#40909
-13#0#Sambal Beef Pizza#40909
-13#0#Margherita Pizza#40909
-13#0#Beef Delight Pizza#40909
-13#0#Chicken Rasher Pizza#14091
-13#0#Pepper Chicken Pizza#14091
-13#0#Beef Rasher Pizza#14091
-13#0#Tasty Stuffed Pockets Spicy Chicken#10000
-13#0#Tasty Stuffed Pockets Spicy Beef#10000
-13#0#Tasty Stuffed Pockets Spicy Chicken#7727
-13#0#Tasty Stuffed Pocket Peppery Beef Sausage#7727
-13#0#Potato Wedges#16818
-13#0#Medium Original Klassic Fried Chicken#27273
-13#0#Medium BBQ Klassic Fried Chicken#27273
-13#0#Personal Original Klassic Fried Chicken#18182
-13#0#Personal BBQ Klassic Fried Chicken#18182
-13#0#Personal Beef Black Pepper Rice#16364
-13#0#Medium Beef Black Pepper Rice#22727
-13#0#Medium Sambal Klassic Fried Chicken#27273
-13#0#Personal Sambal Klassic Fried Chicken#18182
-13#0#Medium Sambal Crispy Chicken Strips#31818
-13#0#Medium Original Crispy Chicken Strips#31818
-13#0#Medium BBQ Crispy Chicken Strips#31818
-13#0#Personal Original Crispy Chicken Strips#18182
-13#0#Personal BBQ Crispy Chicken Strips#18182
-13#0#Personal Sambal Crispy Fried Chicken#18182
-13#0#Spicy Tuna Mac'n Cheese Extra Cheese#34545
-13#0#American Mac'n Cheese Extra Cheese#34545
-13#0#Chicken Creamy Spaghetti With Cheese#34545
-13#0#Beef PepperSpaghetti With Cheese#34545
-13#0#Spicy Tuna Mac'n Cheese#30000
-13#0#American Mac'n Cheese#30000
-13#0#Chicken Creamy Spaghetti#30000
-13#0#Black Pepper Spaghetti#30000
-13#0#Beef Lasagna#41818
-13#0#Chick & Cheese (8pcs)#52727
-13#0#Klassic Fried Chicken (3pcs)#20909
-13#0#Klassic Fried Chicken (9pcs)#58182
-13#0#Crispy Chicken Strips (10pcs)#59091
-13#0#Chick & Cheese (4pcs)#26364
-13#0#Chicken Wings 10 Pcs (BBQ/Chili Sauce)#57273
-13#0#Chicken Wings (5pcs)#28636
-13#0#Crispy Chicken Strips (4pcs)#26364
-13#0#Cinnamon Bread Sticks#25455
-13#0#Choco Bread Sticks#25455
-13#0#Bread Sticks (8pcs)#25455
-13#0#Cheesy Bread (8pcs)#28182
-13#0#Garlic Cheesy Rolls (2pcs)#20000
-13#0#Cheesy Dipping Sauce#3636
-13#0#Sambal Dipping Sauce#2727
-13#0#Black Pepper Dipping Sauce#2727
-13#0#Rustic Dipping Sauce#2727
-13#0#BBQ Dipping Sauce#2727
-13#0#Chunky Choc-Chip Cookie#31818
-13#0#Chocolate Lava#27273
-13#1#Lychee Tea#15455
-13#1#Peach Tea#15455
-13#1#Taro Milk#15455
-13#1#390ml Fanta#11818
-13#1#390ml Sprite#11818
-13#1#390ml Coca Cola#11818
-13#1#1 Liter Sprite#16364
-13#1#1 Liter Fanta#16364
-13#1#1 Liter Coca Cola#16364
-13#1#350ml Frestea Passion Fruit#11364
-13#1#350ml Frestea Jasmine#11364
-13#1#350ml Frestea Apple#11364
-13#1#600ml Ades#10455
-14#0#PaMer 7 Kremes Sambal Matah#166000
-14#0#PaMer 5 Kremes Sambal Matah#115500
-14#0#Ayam Special Kremes Sambal Matah#41500
-14#0#Ayam Kremes Sambal Matah#35000
-14#0#Kremes & Sambal Matah#5000
-14#0#Sausage Wrap#18500
-14#0#Egg & Cheese Muffin#12500
-14#0#Chicken McMuffin#18500
-14#0#Chicken McMuffin With Egg#24000
-14#0#Egg McMuffin#21000
-14#0#Sausage McMuffin#21000
-14#0#Sausage McMuffin With Egg#25000
-14#0#Big Breakfast#30500
-14#0#Hotcakes 3pcs#24000
-14#0#Big Mac#33000
-14#0#Double Cheeseburger#31500
-14#0#Triple Burger with Cheese#38000
-14#0#McSpicy#33500
-14#0#McChicken#27000
-14#0#McDouble Burger#27000
-14#0#Fish & Fries#34500
-14#0#Cheeseburger With Egg#25500
-14#0#Fish Fillet Burger#25500
-14#0#Cheeseburger#24500
-14#0#Chicken Burger With Cheese#24000
-14#0#McNuggets 6pcs#25000
-14#0#McNuggets 9pcs#33500
-14#0#PaNas 2 Dengan Fries#45500
-14#0#Bulgogi Beef Rice#21000
-14#0#Teriyaki Chicken Rice#21000
-14#0#PaMer 7Pcs#151000
-14#0#PaMer 5Pcs#103500
-14#0#PaNas 2 dengan Nasi#42500
-14#0#PaNas Spesial#36500
-14#0#PaNas 1#30500
-14#0#Apple Pie#10000
-14#0#Apple Banana Pie#11000
-14#0#Fish Bites#12500
-14#0#Spiicy Chicken Bites#10000
-14#0#Beef Burger#14000
-14#0#Chicken Burger#14000
-14#0#Chicken Snack Wrap#14000
-14#0#McNuggets 4pcs#18500
-14#0#French Fries#9500
-14#0#Breakfast Wrap#14000
-14#0#Bubur Ayam Spesial#14000
-14#0#Nasi#6000
-14#0#Happy Meal Cheeseburger#34500
-14#0#Happy Meal McNuggets 4Pcs#34500
-14#0#Happy Meal Chicken Burger#34500
-14#0#Happy Meal Ayam#34500
-14#0#McFlurry Dark Choco Oreo#14000
-14#0#McFlurry Dark Choco Crunch#14000
-14#0#McFlurry Choco#10500
-14#0#McFlurry Featuring Oreo#10500
-14#0#Sundae Chocolate#9500
-14#0#Sundae Strawberry#9500
-14#1#Kedondong Fizz#11000
-14#1#Orange Drink#9500
-14#1#Premium Roast Coffee#10500
-14#1#Teh Panas#10500
-14#1#Iced Coffee#14500
-14#1#Iced Coffee Float#17000
-14#1#Iced Coffee Jelly#17000
-14#1#Iced Coffee Jelly Float#19000
-14#1#Coca Cola#7500
-14#1#Fanta#7500
-14#1#Sprite#7500
-14#1#Fruit Tea Lemon#7500
-14#1#Fruit Tea Blackcurrant 200mL#7500
-14#1#TehBotol Sosro Kotak 250mL#9500
-14#1#Air Mineral 600mL#9000
-14#1#Milo#10500
-14#1#Coke McFloat#11000
-14#1#Fanta McFloat#11000
-14#1#Tehbotol Sosro Tawar 350mL#7500
-15#0#Nasi Biryani Kambing#78000
-15#0#Roti Cane Mix (Susu/Keju/Coklat/Madu)#30000
-15#0#Mie Rebus Medan#47000
-15#0#Nasi Kebuli Kambing#66000
-15#0#Nasi Goreng Seafood#47000
-15#0#Nasi Kabsa Ayam Kampung#79000
-15#0#Nasi Kabsa Kambing#79000
-15#0#Samosa Daging#55000
-15#0#Nasi Goreng Cakalang#47000
-15#0#Samosa Vegetarian#45000
-15#0#Naan Kari Kambing#65000
-15#0#Naan Kari Ayam Kampung#60000
-15#0#Egg Swarma#40000
-15#0#Roti Jala Kari Ayam Kampung#55000
-15#0#Soto Medan Ayam Kampung#43000
-15#0#Mie Aceh Rebus Daging/Seafood#47000
-15#0#Martabak India#72000
-15#0#Roti Cane Kari Ayam Kampung#55000
-15#0#Roti Cane Kari Kambing#60000
-15#0#Nasi Biryani Ayam Kampung#78000
-15#0#Roti Cane Ice Cream#35000
-15#0#Roti Cane Plain#18000
-15#0#Nasi Kebuli Ayam Kampung#66000
-15#0#Mie Aceh Goreng Daging/Seafood#46000
-15#0#Mie Aceh Tumis Ayam Kampung#43000
-15#0#Nasi Goreng Kambing Spesial#47000
-15#0#Nasi Goreng Ayam Kampung#43000
-15#0#Nasi Goreng Teri Medan + Pete#47000
-15#0#Nasi Goreng Udang + Pete#47000
-15#0#Ayam Bakar Rica#35000
-15#0#Nasi Goreng Ikan Asin + Pete#47000
-15#0#Sop Iga Bening#47000
-15#0#Soto Medan Daging#47000
-15#0#Roti Jala Kari Kambing#60000
-15#0#Mie Aceh Rebus Ayam Kampung#43000
-15#0#Mie Aceh Goreng Ayam Kampung#43000
-15#1#Sirup Marquisah#25000
-15#1#Es Timun#25000
-15#1#Kopi Tarik#35000
-15#1#Thai Tea#25000
-15#1#Lemon Tea#23000
-15#1#Kopi Medan#30000
-15#1#Hot & Ice Chocolate#25000
-15#1#Hot & Ice Cappuccino#25000
-15#1#Teh Tariq India Hot & Ice#25000
-15#1#Susu Soda#23000
-15#1#Juice Alpokat#25000
-15#1#Sirup Selasih#23000
-15#1#Juice Jeruk#25000
-15#1#Juice Mangga#25000
-15#1#Teh Tarik Ginger#30000
-15#1#Manggo Lassi#35000
-15#1#Lemon Squas#25000
-15#1#Strawberry Yogurt#30000
-15#1#Juice Terong Belanda#30000
-15#1#Juice Jambu#25000
-15#1#Martabe#30000
-15#1#Milk Rose#23000
-15#1#Juice Sirsak#25000
-15#1#Ovaltine / Milo#25000
-16#0#Vegetable Manchow Soup#25000
-16#0#Indian Vegetable Hakka Noodle#47000
-16#0#Vegetable Manchurian#47000
-16#0#Vegetable Roll Special#47000
-16#0#Masala Papadam#20000
-16#0#Tomatoes Soup#22000
-16#0#Union Bhaji#35000
-16#0#Mixed Vegetable Cream soup#25000
-16#0#Paneer Tikka#57000
-16#0#Samosa#30000
-16#0#Aloo Tiki#40000
-16#0#Aloo Chat#35000
-16#0#Paneer Pakoda#65000
-16#0#Vegetable Palak Butter Masala#47000
-16#0#Zaalfrezi#42000
-16#0#dahii Karhi Pakoda#52000
-16#0#Dum Aloo#47000
-16#0#Sambar#35000
-16#0#Jeera Aloo#42000
-16#0#Sabzi Butter Masala#47000
-17#0#Bakmi Seafood Goreng#54000
-17#0#Kwetiau Sapi Goreng#53000
-17#0#Kwetiau Seafood Siram#54000
-17#0#Kwetiau Sapi Bun#53000
-17#0#Bakso Tahu Sapi Kuah#48000
-17#0#Kwetiau Sapi Ala Seroja Baru#53000
-17#0#Kwetiau Sapi Siram#53000
-17#0#Kwetiau Sapi Siram Lada Hitam#57000
-17#0#Kwetiau Sapi Capcay#57000
-17#0#Kwetiau Sapi Yam#53000
-17#0#Kwetiau Sapi Kuah#53000
-17#0#Kwetiau Sapi Spesial#73000
-17#0#Kwetiau Sapi + Bakso Sapi 5 Pcs#53000
-17#0#Extra Telur#10000
-17#0#Telur Mata Sapi#12000
-17#0#Telur Dadar#12000
-17#0#Kwetiau Seafood Ala Seroja Baru#54000
-17#0#Kwetiau Seafood Goreng#54000
-17#0#Kwetiau Seafood Siram Lada Hitam#58000
-17#0#Kwetiau Seafood Capcay#58000
-17#0#Kwetiau Seafood Bun#54000
-17#0#Kwetiau Seafood Yam#54000
-17#0#Kwetiau Seafood Kuah#54000
-17#0#Kwetiau Seafood Spesial#74000
-17#0#Kwetiau Polos Telur#45000
-17#0#Bakmi Sapi Goreng#53000
-17#0#Bakmi Sapi Ala Seroja Baru#53000
-17#0#Bakmi Sapi Siram#53000
-17#0#Bakmi Sapi Siram Lada Hitam#57000
-17#0#Bakmi Sapi Capcay#57000
-17#0#Bakmi Sapi Bun#53000
-17#0#Bakmi Sapi Yam#53000
-17#0#Bakmi Sapi Kuah#53000
-17#0#Bakmi Sapi Spesial#73000
-17#0#Bakmi Sapi + Bakso Sapi 5 Pcs#73000
-17#0#Bakmi Seafood Ala Seroja Baru#54000
-17#0#Bakmi Seafood Goreng#54000
-17#0#Bakmi Seafood Siram#54000
-17#0#Bakmi Seafood Siram Lada Hitam#58000
-17#0#Bakmi Seafood Capcay#58000
-17#0#Bakmi Seafood Bun#54000
-17#0#Bakmi Seafood Yam#54000
-17#0#Bakmi Seafood Kuah#54000
-17#0#Bakmi Seafood Spesial#74000
-17#0#Bakmi Polos Telur#45000
-17#0#Bihun Sapi Goreng#53000
-17#0#Bihun Sapi Kuah#53000
-17#0#Bihun Sapi Ala Seroja Baru#53000
-17#0#Bihun Seafood Goreng#54000
-17#0#Bihun Seafood Kuah#54000
-17#0#Bihun Seafood Ala Seroja Baru#54000
-17#0#Bihun Polos Telur#45000
-17#0#Nasi Goreng Sapi#53000
-17#0#Nasi Cah Sapi#57000
-17#0#Nasi Capcay Sapi#57000
-17#0#Nasi Goreng Seafood#54000
-17#0#Nasi Cah Seafood#58000
-17#0#Nasi Capcay Seafood#58000
-17#0#Nasi Goreng Kombinasi (Sapi+Seafood)#73000
-17#0#Nasi Goreng Polos Telur#45000
-17#0#Nasi Putih#8000
-17#0#Bakso Sapi Kuah 10 Pcs#48000
-17#0#Bakso Sapi Kuah 5 Pcs#24000
-17#0#Tahu Sapi Kuah 1 Pcs#24000
-17#0#Bakso Tahu Sapi Kuah#48000
-17#0#Fu Cien 5 Pcs#19000
-17#0#Fu Cien 10 Pcs#38000
-17#0#Sop Sapi#64000
-17#0#Sop Seafood#64000
-17#0#Cap Cay Cah Sapi#63000
-17#0#Cap Cay Cah Seafood#65000
-17#0#Caisim Cah Sapi#63000
-17#0#Caisim Cah Seafood#51000
-17#0#Caisim Cah Polos#50000
-17#0#He Keng#45000
-17#0#Kuah Toge / Sayur#15000
-17#0#Bakso Ikan Kuah#48000
-17#1#Es Jeruk Murni#30000
-17#1#Es Jeruk Manis#18000
-17#1#Es Jeruk Nipis#18000
-17#1#Ice Markisa#15000
-17#1#Ice Kiet Na#15000
-17#1#Ice Lidah Buaya#15000
-17#1#Ice Rumput Laut#15000
-17#1#Es Milo#18000
-17#1#Ice Milo Cincau#18000
-17#1#Ice Blackcurrant#15000
-17#1#Ice Tea Tarik#15000
-17#1#Ice Tea Tarik Cincau#18000
-17#1#Juice Guava#15000
-17#1#Juice Kedondong#15000
-17#1#Lo Han Kuo#10000
-17#1#Air Mineral 600mL#8000
-17#1#Teh Pucuk#8000
-17#1#Kopiko 78 C#15000
-17#1#Es Lemon Tea#18000
-17#1#Es Susu Kacang#10000
-17#1#Es Liang Teh#10000
-17#1#Es Teh Manis#10000
-17#1#Teh Manis Hangat#8000
-17#1#Es Teh Tawar#8000
-17#1#Teh Tawar#3000
-17#1#Es Batu#2000
-17#1#Ice Blended Chocolate Ice Blended#18000
-17#1#Cappuccino Ice Blended Milk Tea Ice#18000
-17#1#Blended Avocado Ice Blended#18000
-17#1#Strawberry Ice Blended Tiramisu#18000
-17#1#Taro Ice Blended Matcha Green Tea#18000
-17#1#Chocolate Milk Tea#18000
-17#1#Cappuccino Milk Tea#18000
-17#1#Milk Tea Bubble#18000
-17#1#Tea Tarik Bubble#18000
-17#1#Avocado Milk Tea#18000
-17#1#Strawberry Milk Tea#18000
-17#1#Tiramisu Milk Tea#18000
-17#1#Taro Milk Tea#18000
-17#1#Matcha Green Milk Tea#18000
-17#1#Red Bean#4000
-17#1#Cincau#4000
-17#1#Ketan Hitam#4000
-18#0#Asparagus Ayam#32200
-18#0#Asparagus Kepiting#40250
-18#0#Jagung Ayam#32200
-18#0#Jagung Kepiting#40250
-18#0#Gabus Asam Pedas#56350
-18#0#Tom Yam Goong Seafood#33350
-18#0#Tom Yam Goong Ayam#28750
-18#0#Kwetiau Goreng Telor#20700
-18#0#Kwetiau Goreng Ayam#24150
-18#0#Kwetiau Goreng Seafood#27600
-18#0#Kwetiau Goreng Special#27600
-18#0#Kwetiau Siram Sapi#27600
-18#0#Kwetiau Siram Seafood#27600
-18#0#Kwetiau Tom Yam Seafood#33350
-18#0#Nasi Goreng Thailand#27600
-18#0#Nasi Goreng Telor#20700
-18#0#Nasi Goreng Ayam#24150
-18#0#Nasi Goreng Seafood#27600
-18#0#Nasi Goreng Special#27600
-18#0#Nasi Goreng Ayam Pete#26450
-18#0#Nasi Goreng Yang Caw BJ#29900
-18#0#Nasi Goreng Hongkong#29900
-18#0#Nasi Goreng Teri Medan#25300
-18#0#Mie/Bihun Goreng Telor#20700
-18#0#Mie/Bihun Goreng Special#27600
-18#0#Mie/Bihun Kuah#26450
-18#0#Mie/Bihun Tom Yum Seafood#33350
-18#0#Soun Goreng Ayam#25300
-18#0#Soun Goreng Vegetable#20700
-18#0#Fuyunghay#26450
-18#0#Ayam Rica - Rica#26450
-18#0#Ayam Nanking#32200
-18#0#Ayam Mentega#26450
-18#0#Ayam Kuluyuk#26450
-18#0#Ayam Cabe GRM/Cabe Rawit#26450
-18#0#Ayam Telor Asin#27600
-18#0#Udang Mentega#27600
-18#0#Udang Telor Asin#28750
-18#0#Udang Saos Padang#27600
-18#0#Udang Mayonaise#27600
-18#0#Udang Cabe Rawit#27600
-18#0#Cumi Saos Padang#27600
-18#0#Cumi Goreng Tepung#27600
-18#0#Cumi Cabe GRM/Cabe Rawit#27600
-18#0#Cumi Saos Tiram#27600
-18#0#Cumi Mentega / Rica Rica#27600
-18#0#Kakap Rica Rica#27600
-18#0#Kakap Asam Manis#27600
-18#0#Kakap Cabe Rawit/ Cabe GRM#27600
-18#0#Sapi Lada Hitam#27600
-18#0#Bistik Sapi#28750
-18#0#Sapi Pete Kecap#27600
-18#0#Capcay#24150
-18#0#Ayam Jamur#27600
-18#0#Sapo Tahu Seafood#27600
-18#0#Brokoli Udang/Sapi#27600
-18#0#Kangkung Sapi/Cumi#25300
-18#0#Kakap Telor Asin#29900
-18#0#Udang Saos Tiiram#27600
-18#0#Cumi Telor Asin#28750
-18#0#Ayam Kung Pao#32200
-18#0#Capcay Goreng/Kuah#29900
-18#0#Ayam Cah Jamur#32200
-18#0#fuyunghai Ayam Udang#31050
-18#0#Sapo Tahu Seafood Hot Pot#34500
-18#0#Sapo Tahu Hotplate#55200
-18#0#Mun Tahu Ayam Udang#32200
-18#0#Brokoli Bawang Putih#21850
-18#0#Brokoli Cah Sapi#32200
-18#0#Brokoli Cah Udang#32200
-18#0#Kailan Cah Bawang Putih#20700
-18#0#Kailan Cah Sapi/Udang#31050
-18#0#Kacang Panjang Cah Bawang Putih#17250
-18#0#Kacang Panjang Cah Balacan#19550
-18#0#Kangkung Hotplate Cah Polos#19550
-18#0#Kangkung Hotplate Cah Ayam#29900
-18#0#Kangkung Hotplate Cah Sapi#31050
-18#0#Kangkung Hotplate Cah Udang#32200
-18#0#Kangkung Cah Bawang Putih#17250
-18#0#Kangkung Cah Balacan#19550
-18#0#Kangkung Cah Cumi#31050
-18#0#Kangkung Cah Seafood#31050
-18#0#Kangkung Cah Udang#31050
-18#0#Kangkung Cah Sapi#29900
-18#0#Kangkung Cah Ayam#24150
-18#0#Baby Buncis Cah Polos#19550
-18#0#Baby Buncis Cah Sapi#28750
-18#0#Baby Buncis Cah Ayam#25300
-18#0#Toge Cah Polos#16100
-18#0#Toge Cah Ikan Asin#20700
-18#0#Pokcoy 3 Jamur#32200
-18#0#Pokcoy 3 Rasa#23000
-18#0#Pare Cah Sapi#28750
-18#0#Jamur 3 Rasa#28750
-18#0#Sapi Lada Hitam#36800
-18#0#Sapi Cah Paprika#36800
-18#0#Sapi Pete Kecap#36800
-18#0#Bistik Sapi#36800
-18#0#Ayam Goreng Kering#33350
-18#0#Ayam Goreng Tepung#33350
-18#0#Ayam Goreng Mentega#33350
-18#0#Ayam Singapore#35650
-18#0#Ayam Special Saos Beijing#43700
-18#0#Gurame Sapo Kuah#78200
-18#0#Gurame Saos Mangga#73600
-18#0#Gurame Cabe Garam#69000
-18#0#Ikan Kue Goreng Kering#51750
-18#0#Ikan Bawal Goreng Saos Padang#51750
-18#0#Nasi Ayam Kuluyuk#26450
-18#0#Nasi Ayam Goreng Kering#141450
-18#0#Nasi Ayam Cabe Grm/Cabe Rwt#26450
-18#0#Nasi Ayam Telor Asin#27600
-18#0#Nasi Udang Cabe Rawit#27600
-18#0#Nasi Cumi Cabe Grm/Cabe Rwt#27600
-18#0#Nasi Cumi Mentega/Rica Rica#27600
-18#0#Nasi Kakap Rica-Rica#27600
-18#0#Nasi Kakap Cabe Rwt/Cabe Grm#27600
-18#0#Nasi Sapi Pete Kecap#27600
-18#0#Nasi Brokoli Udang/Sapi#27600
-18#0#Nasi Kangkung Sapi/Cumi#25300
-18#0#Nasi Udang Saos Tiram#27600
-18#0#Nasi Cumi Telor Asin#28750
-19#0#Roti Coklat#8500
-19#0#Roti Tawar Kecil Kulit#15000
-19#0#Roti Koffie Brood#9000
-19#0#Roti Jagung#8500
-19#0#Roti Salami Brown Sauce#10500
-19#0#Roti Kismis#8500
-19#0#Roti Molen#8500
-19#0#Roti Coklat Muisjes Gulung#8500
-19#0#Roti Kelapa#8500
-19#0#Roti Smoked Beef Cheese#11000
-19#0#Roti Nanas#9000
-19#0#Roti Isi Srikaya#9000
-19#0#Roti Pisang Coklat#9000
-19#0#Roti Keju#9500
-19#0#Roti Pisang Keju#9500
-19#0#Roti Bakso Ayam#10500
-19#0#Roti Bakso Sapi#11000
-19#0#Roti Kacang Merah#8500
-19#0#Roti Kacang Hijau#8500
-19#0#Roti Sosis Sapi#11500
-19#0#Roti Tiga Rasa#9000
-19#0#Roti Tawar Gandum#18000
-19#0#Krenten Brood#29500
-19#0#Choco Bun#9000
-19#0#Almond Cake#11000
-19#0#Cake Bread Coklat#33000
-19#0#Cake Bread Keju#34000
-19#0#Roti Sisir#14000
-19#0#Roti Keset Kombinasi#22000
-19#0#Roti Keset Keju#22000
-19#0#Keset Choco Bun#20500
-19#0#Roti Smeer Mocca (8Pcs)#20000
-19#0#Roti Smeer Mocca Mesis (8Pcs)#22000
-19#0#Roti Keset Krenten#20000
-19#0#Roti Sausage Burger#14000
-19#0#Roti Chicken Burger#14000
-19#0#Sandwich (Smoked Beef+Keju)#11000
-19#0#Roti Keju Coklat#9000
-19#0#Roti Keset Coklat#20000
-19#0#Roti Black & White#9000
-19#0#Roti Cheese Pan#10000
-19#0#Roti Abon Sapi#10500
-19#0#Roti Kelapa Pandan Srikaya/Ring#9000
-19#0#Ontbijkoek#25500
-19#0#Roti Lemper Ayam#10500
-19#0#Toast Sandwich (Smoked Beef Cheese)#12000
-19#0#Roti Coklat Susu#9000
-19#0#Roti Coklat Keju#10500
-19#0#Roti Abon Sapi Pedas#11000
-19#0#Roti Sausage - Ribs#12000
-19#0#Roti Mocca Mesis#9000
-19#0#Choco Nut Bun#9000
-19#0#Roti Mexican Coffee#11000
-19#0#Smoked Beef Cheese Loaf#37000
-19#0#White Milk Chocolate Bun#9000
-19#0#Roti Lady Finger Beef#13500
-19#0#Roti Manis Aneka Super-Super Mini#40000
-19#0#Roti Barbeque Chicken#10000
-19#0#Roti Moshi Mushroom#10500
-19#0#Roti Mocca Cream#9000
-19#0#Roti Maxi Choco Cheese#10500
-19#0#Roti Maxi Cappuccino#9500
-19#0#Roti Maxi Kaya Pandan#9500
-19#0#Roti Split Duo Butter Special#13500
-19#0#Choco Peanut Butter Bun#10500
-19#0#Roti Split Duo Keju Coklat Spesial#19500
-19#0#Roti Split Duo Keju Spesial#19500
-19#0#Strawberry Polo Bun#9000
-19#0#Blueberry Polo Bun#12000
-19#0#Roti Soccer Chocolate#10500
-19#0#Roti Soccer Cheese#11000
-19#0#Roti Beef And Mushroom#9500
-19#0#Garlic Bread#11500
-19#0#Garlic French Bread#12000
-19#0#Roti Tuna Rica-Rica#9000
-19#0#Glutinous Rice Bread#8500
-19#0#Yam Bread#9000
-19#0#Classic Peanut Butter#8500
-19#0#Red Bean Bread#8500
-19#0#Roti Tawar Kering (Toast Slice)#19000
-19#0#Black Pepper Cheese Loaf#30500
-19#0#Roti Taawar Kecil Kupas#15000
-19#0#Sandwich Gandum (Smoked Beef+Keju)#11500
-19#0#Roti Ikan Tuna#11000
-19#0#Sandwich Gandum Tuna#11500
-19#0#Roti Mahkota/Ring#11000
-19#0#Daily Vit Whole Wheat Bread#39000
-19#0#Tuna Cheese Sandwich Wheat Bread#15000
-19#0#Mozarella Pesto Bread#10500
-19#0#Roti Orange Almond Chocolate#9000
-19#0#Roti Bagelen#22000
-19#0#Garlic Parmesan Bun#9500
-19#0#Chocolate Lollipop Bun#6000
-19#0#Roti Smoked Beef Cheese Ring#13500
-19#0#Roti Black Pepper Beef#11000
-19#0#Roti Tawar Premium#21500
-19#0#Roti Kentang Keju Manis#27000
-19#0#Roti Kentang Ketan Hitam#23500
-19#0#Donut Sate#8000
-19#0#Banana Chocolate#9000
-19#0#Chocolate John#8500
-19#0#Cheese John#9500
-19#0#Donat Ayam Spesial#10000
-19#0#Donat Sapi#10500
-19#0#Donut Sosis#11000
-19#0#Donut Mini Box (Isi 10 Pcs)#22000
-19#0#Donut Nut John#10500
-19#0#Bolu Gulung Mocca (12 Ptg)#75000
-19#0#Bolu Gulung Lemon (12 Ptg)#75000
-19#0#Bolu Gulung Pandan (12 Ptg)#75000
-19#0#Pudding Kelengkeng (20 Ptg)#96000
-19#0#Pudding Coklat (20 Ptg)#96000
-19#0#Pudding Fruit Cocktail (20 Ptg)#96000
-19#0#Pudding Peach Cup#11000
-19#0#Pudding Orange (20 Ptg)#96000
-19#0#Pudding Orange Cup#11000
-19#0#Bolu Gulung Strawberry (12 Ptg)#75000
-19#0#Marbel Cake (10 Ptg)#96000
-19#0#Croissant Kosong#8500
-19#0#Croissant Sandwich (Sm. Beef)#14500
-19#0#Danish Raisin#9000
-19#0#Cheese Cup#9000
-19#0#Black Pepper Cheese Pastry#15500
-19#0#Fruit Pastry#8500
-19#0#Cheese Finger#7500
-19#0#Peach Pastry#8500
-19#0#Kue Ku Ketan#4000
-19#0#Once Kacang Hijau#6000
-19#0#Dadar Gulung#6000
-19#0#Lemper Ikan#7000
-19#0#Lemper Ayam#8000
-19#0#Bika Ambon Loyang (20 Ptg)#90000
-19#0#Bika Ambon Ptg#5000
-19#0#Bika Ambon Cup#6000
-19#0#Wajik#5500
-19#0#Arem-Arem (Lontong)#6500
-19#0#Gateau African 24cm#330000
-19#0#Gateau African 19cm#219000
-19#0#Mocca Taart 24cm#256000
-19#0#Mocca Taart 19cm#171000
-19#0#Mocca Taart 15cm#112000
-19#0#Lemon Taart 24cm#256000
-19#0#Lemon Taart 19cm#171000
-19#0#Lemon Taart 15cm#112000
-19#0#Fruit Fresh Cream Taart 24cm#330000
-19#0#Fruit Fresh Cream Taart 19cm#219000
-19#0#Tiramisu Taart 24cm#330000
-19#0#Orange Taart 24cm#256000
-19#0#Temptation Cake#155000
-19#0#Desire#198000
-19#0#New York Cheese Cake#198000
-19#0#Brownies Keju Kukus#73000
-19#0#Chocolate cherry Cake#203000
-19#0#Double Chocolate Cake#239000
-19#0#Nastar Toples Segi 8#99000
-19#0#Nastar Jambu Box#56000
-19#0#Chiffon Cake Pandan Potong 8#7000
-19#0#Chiffon Cake Pandan#54000
-19#0#Chiffon Cake Coklat#54000
-19#0#Soes Kering Original#20000
-19#0#Roti Spring Stick#8500
-19#0#Chiffon Red Bean#61000
-19#0#Kaasstengels Toples Segi 4#101500
-19#0#Putri Salju Toples#70000
-19#0#Pisang Bolen Box#42000
-19#0#Peanut Butter Cookies Toples#52500
-20#0#Banana Choco Cheese#15500
-20#0#Cadbury Cashew & Cookies#22499
-20#0#Choco Cheese#15000
-20#0#Choco Peanut#11501
-20#0#Cookies & Cream#16999
-20#0#Nutella Cheese#29999
-20#0#Peanut And Cheese#15000
-20#0#SilverQueen Crepes#22501
-20#0#Toblerone Banana Cheese#31000
-20#0#Toblerone Cheese#29500
-20#0#Toblerone Milk#28001
-20#0#Ovomaltine Oreo#29000
-20#0#Ovomaltine Cheese#29000
-20#0#Meat Lovers#23000
-20#0#Beef Yakiniku#26000
-20#0#Tuna Pizza#17999
-20#0#Spicy Tuna#17999
-20#0#Smoked Beef And Cheese#17500
-20#0#Roast Beef#17001
-20#0#Premium Chicken Burger#22000
-20#0#Premium Beef Burger#24000
-20#0#Chill Dog#17500
-20#0#BBQ Chicken#17500
-20#0#Extra Banana#1499
-20#0#Extra Cheese Block#5000
-20#0#Extra Cheese Mayo#3000
-20#0#Extra Cheese Slice#4000
-20#0#Extra Chicken Spicy#5000
-20#0#Extra Choco Chips#2499
-20#0#Extra Mayonnaise#2000
-20#0#Extra Peanut#3000
-20#0#Extra Premium Beef Burger#11000
-20#0#Extra Premium Chicken Burger#7999
-20#0#Extra SilverQueen#10500
-20#0#Extra Smoked Beef#4500
-20#0#Extra Sosis#3500
-20#0#Extra Spicy Tuna#7500
-20#0#Extra Tuna Salad#7500
-20#0#Extra Peach#3500
-21#0#Fish & Chips#39000
-21#0#Hanami Mango Salad#45000
-21#0#Potato Wedges#30000
-21#0#Truffle Shimeji#39000
-21#0#Honey Garlic Wings#43000
-21#0#Ontama Caesar Salad#45000
-21#0#Golden Truffle Fries#49000
-21#0#Shiozuke Shirou#59000
-21#0#Chrushed Almond Wings#32000
-21#0#Karai Shirou Salad#49000
-21#0#Wafu Smoked Salmon Salad#69000
-21#0#Hokubee Beef Papilote#85000
-21#0#Smoked Salmon Papilote#85000
-21#0#Chunk Beef Papilote#59000
-21#0#Smoked Beef Papilote#59000
-21#0#Seafood Tokio Goulash#69000
-21#0#Dori Tokio Goulash#69000
-21#0#Hokubee Beef Tokio Goulash#79000
-21#0#Chicken Tokio Goulash#59000
-21#0#Hokubee Beef Rissotto Omurice#89000
-21#0#Salmon Rissotto Omurice#89000
-21#0#Chicken Rissotto Omurice#59000
-21#0#Shimeji Rissotto Omurice#50000
-21#0#Pan Seared Salmon With Mentaiko Sauce#89000
-21#0#Buttermilk Fried Chicken#65000
-21#0#Jhon Dory With Mentaiko Sauce#75000
-21#0#Hokube Beef With Teriyaki Sauce#89000
-21#0#Wofu Pasta Salmon#85000
-21#0#Wofu Pasta Grilled Chickenn#58000
-21#0#Wofu Pasta Hokubee Beef#85000
-21#0#Wofu Pasta Smoke Duck#75000
-21#0#Tuna Aglio Olio Pasta#75000
-21#0#Les Japonais Chicken Pasta#68000
-21#0#Pesto Smoked Beef & Egg Pasta#68000
-21#0#Chicken Aglio Olio Pasta#58000
-21#0#Les Japonais Beef Pasta#73000
-21#0#Carbonara Bacon & Egg Pasta#65000
-21#0#Pasta Bolognaise#58000
-21#0#Pasta Smoked Duck Creme#75000
-21#0#Pasta Pesto Seafood#68000
-21#0#Pasta Smoked Duck Aglio Olio#75000
-21#0#Pasta Bolognaise Seafood#63000
-21#0#Seafood Aglio Olio#68000
-21#0#Salmon Creme#85000
-21#0#Beef Aglio Olio#68000
-21#0#Milleufeuille Chiken Katsu#55000
-21#0#Milleufeuille Beef Katsu#85000
-21#0#Milleufeuille Chiken Katsu Burger#69000
-21#0#Milleufeuille Beef Katsu Burger#99000
-21#0#Butter Milk Chicken Burger#63000
-21#0#Hokubee Burger#79000
-21#0#Grilled Wagyu Burger#135000
-21#0#Juicy Beef Burger#69000
-21#0#Grilled Salmon Burger#79000
-21#0#Organic Baby Chicken Whole Steak#125000
-21#0#Hokubee Tenderloin Steak#188000
-21#0#Salmon Steak#125000
-21#0#Hokubee Sirloin Steak#155000
-21#0#Hokubee Rib Eye Steak#168000
-21#0#Wagyu Steak#255000
-21#0#Organic Baby Chicken Half Steak#85000
-21#0#Seafood Fried Rice#68000
-21#0#Chicken Garlic Fried Rice#59000
-21#0#Salmon Fried Rice#89000
-21#0#Sausage & Smoked Beef Fried Rice#65000
-21#0#Choco Signature Hibachi Toast#59000
-21#0#Matcha Tiramisu Hibachi Toast#59000
-21#0#Thai Tea Delight Hibachi Toast#59000
-21#0#Strawberry Cheese Cake#59000
-21#0#Chocolate Overload Honey Toast#58000
-21#0#Original Honey Toast#38000
-21#0#Black Beauty Honey Toast#58000
-21#0#Banana Choco Honey Toast#50000
-21#0#Dazzling Fruits Honey Toast#55000
-21#0#Apple Crumble Cake#29000
-21#0#Macaron Cake#10000
-21#0#Carot Cake Whole#380000
-21#0#Strawberry Crumble Cake#29000
-21#0#Carot Cake Slice#33000
-21#1#Americano#33000
-21#1#Affogato#39000
-21#1#Caramel Latte#43000
-21#1#Caramel Machiato#43000
-21#1#Cafe Latte#38000
-21#1#Frappucino#40000
-21#1#Mudslide Mocha#49000
-21#1#Rocky Road#49000
-21#1#Salt Caramel#49000
-21#1#Black Forest#49000
-21#1#Creme Bruelle#49000
-21#1#Strawberry Juice#33000
-21#1#Orange Juice#29000
-21#1#Peach Juice#29000
-21#1#Kiwi Juice#33000
-21#1#Flavor Tea Peach Tea#28000
-21#1#Artisan Collections#55000
-21#1#Ice Tea#19000
-21#1#Mineral Water#19000
-21#1#Flavor Tea Apple Tea#25000
-21#1#Classic Dilmah#25000
-21#1#Flavor Tea Lychee Tea#28000
-21#1#Hot Honey Ginger Lemonande#33000
-21#1#Flavor Tea Strawberry Tea#25000
-21#1#Lemonande#29000
-21#1#Burgundy Share#75000
-21#1#Lemonande Share#55000
-21#1#Fruitopia Single#33000
-21#1#Mix Fruits Share#75000
-21#1#Lemonande Single#29000
-21#1#Lemon Squash Share#63000
-21#1#Honey Lemonande Single#30000
-21#1#Lemon Tea Single#29000
-21#1#Mix Fruits Single#33000
-21#1#Blackcurrant Tea Single#29000
-21#1#Orange Squash Single#29000
-21#1#Orang Squash Share#63000
-21#1#Honey Lemonande Share#70000
-21#1#Lemon Tea Share#59000
-21#1#Burgundy Single#33000
-21#1#Blackcurrant Tea Share#59000
-21#1#Fruitopia Share#75000
-21#1#Lemon Squash Single#28000
-21#1#Orient Dreams BQ Sparkling Tea#37000
-21#1#Honeybee Mint BQ Sparkling Tea#37000
-21#1#Blue Forest BQ Sparkling Tea#37000
-21#1#Britnis Colony BQ Sparkling Tea#37000
-21#1#Moulin Rounge Frappe#49000
-21#1#Banoffee Republic Frappe#49000
-21#1#Takeshita Dorry#49000
-21#1#Azuma Mono#49000
-21#1#Kiwi Yogurt#39000
-21#1#Strawberry Yogurt#39000
-21#1#Peach Yogurt#39000
-21#1#Berry Yogurt#39000
-21#1#Thai Tea#33000
-21#1#Hot Chocolate#33000
-22#0#Party Cup Cookies & Cream#17500
-22#0#Party Cup Coconut#17500
-22#0#Party Cup Jackfruit#17500
-22#0#Party Cup Green Tea#17500
-22#0#Party Cup Coffee#17500
-22#0#Party Cup Musang King#33000
-22#0#Large Cup Durian#87000
-22#0#Large Cup Chocolate#87000
-22#0#Large Cup Vanilla#87000
-22#0#Large Cup strawberry#87000
-22#0#Large Cup Avocado#87000
-22#0#Large Cup Coconut#87000
-22#0#Large Cup Cookies & Cream#87000
-22#0#Large Cup Jackfruit#87000
-22#0#Large Cup Coffee#87000
-22#0#Large Cup Green Tea#87000
-23#0#Banana Nugget + Cheese#25000
-23#0#Banana Nugget + Strawberry#25000
-23#0#Banana Nugget + Nutella#27000
-23#0#Banana Nugget + Greentea#25000
-23#0#Banana Nugget + Ovomaltine#27000
-23#0#Banana Nugget + Barleymint#25000
-23#0#Banana Nugget + Tiramisu#25000
-23#0#Banana Nugget + White Choco#25000
-23#0#Banana Nugget + Chocolate#25000
-23#0#Banana Nugget + Blueberry#25000
-23#0#Topping Oreo#4000
-23#0#Topping Cheese#4000
-23#0#Topping Milo#4000
-23#0#Topping Coco Crunch#4000
-23#0#Topping Almond#4000
-23#0#Topping Honeystar#4000
-24#0#Durian Asli Medan 900gr#95000
-24#0#Pancake Durian Minni Isi 21pcs#90000
-24#0#Daging Durian Asli Medan 1kg#110000
-24#0#Ice Cream Durian (100gr/Cup)#17000
-24#0#Durian Kupas 900gr#95000
-24#0#Pancake Jumbo#25000
-24#0#Pancake Durian (Hijau Kuning) isi 10pcs#90000
-24#0#Pancake Durian (Rainbow) isi 10pcs#90000
-24#0#Pancake Durian (Rainbow) isi 15pcs#90000
-24#0#Pancake Durian (Hijau Kuning) isi 15pcs#90000
-25#0#Mochi Wijen Putih#9000
-25#0#Mochi Wijen Hitam#9000
-25#0#Mochi Dodol Durian#9000
-25#0#Mochi Keju#9000
-25#0#Mochi Oreo#9000
-25#0#Mochi Kacang Merah#9000
-25#0#Mochi Kacang Hijau#9000
-25#0#Mochi Kacang Tanah#9000
-25#0#Mochi Kacang Asin#9000
-25#0#Mochi Pandan#9000
-25#0#Mochi Green Tea#9000
-25#0#Mochi Coklat#9000
-25#0#Mochi Original#9000
-25#0#Mochi Hai Tang#9000
-25#0#Mochi Strawberry#9000
-26#0#Beef Asparagus#22000
-26#0#Beef Enoki#18000
-26#0#Beef Sausage#18000
-26#0#Chicken Ball#16000
-26#0#Chicken Karage#18000
-26#0#Chicken Meat#14000
-26#0#Chicken Pepper#15000
-26#0#Chicken Scallion#15000
-26#0#Chicken Skin#12000
-26#0#Fish Ball#16000
-26#0#Fish Stick Long#18000
-26#0#Fish Tofu#15000
-26#0#Hagatori#18000
-26#0#Original Noodle#25000
-26#0#Salmon Ball#16000
-26#0#Shitake Tempura#18000
-26#0#Roasted Corn#16500
-26#0#Beef Teriyaki Noodle#55000
-26#0#Beef Udon#45000
-26#0#Chicken Ball Udon#43000
-26#0#Chicken Katsu Noodle#50000
-26#0#Gyu Don#48000
-26#0#Gyu Moza Don#59000
-26#0#Gyutan Don#52000
-26#0#Noodle Hp 3#55000
-26#0#Shio Ramen#35000
-26#0#Spicy Chicken Udon#38000
-26#0#Spicy Karage Don#37000
-26#0#Spicy Karage Moza Don#48000
-26#0#Tori Don#44450
-26#0#Tori Moza Don#55450
-26#0#Toribowl 1#49999
-26#0#Toribowl 3#49999
-26#0#Toribowl 7#45000
-26#0#Yaki Udon Beef#48000
-26#0#Yaki Moza Udon Beef#59000
-26#1#Thai Ice Coffee#27000
-26#1#Thai Ice Tea#27000
-26#1#Ice Chocolate#27000
-26#1#Ice Cappuccino#27000
-26#1#Hot Cappuccino#27000
-26#1#Hot Chocolate#27000
-26#1#Mango Yakult#27000
-26#1#Mango Squash#27000
-26#1#Marquisa Yakult#27000
-26#1#Marquisa Squash#27000
-26#1#Ice Green Tea Blend#27000
-27#0#Takoyaki Original Isi 5 Ball#12000
-27#0#Takoyaki Mixmax Isi 5 Ball#12000
-27#0#Takoyaki Double Cheese Isi 5 Ball#13000
-27#0#Takoyaki Spicy Floss Isi 5 Ball#13000
-27#0#Yakiudon#20000
-27#0#Okomiyaki#15000
-27#0#Okomiyaki Mozarella#35000
-27#0#Rice Box Teriyaki#12000
-27#0#Rice Box Yakiniku#12000
-27#0#Rice Box Tamagoyaki#10000
-28#0#Chicken Kungpao Rice Bowl#32500
-28#0#Chicken Yakiniku Rice Bowl#32000
-28#0#Beef Sausage Rice Bowl With Fried Egg#32500
-28#0#Beef Black Pepper Rice Bowl#35000
-28#0#Chicken Teriyaki Rice Bowl#32000
-28#0#Unagi Kabayaki Rice Bowl#62000
-28#0#Sweet And Sour Chicken Rice Bowl#30000
-28#0#Beef Teriyaki Rice Bowl#35000
-28#0#Sweet n Sour Chicken + Potato Nuggets#22000
-28#1#Jus Sari Kedondong#15000
-29#0#Beef Bulgogi Dubab (Sambal Matah)#38000
-29#0#Beef Bulgogi Dubab (Bulgogi Sauce)#38000
-29#0#Chicken Bulgogi Dubab (Sambal Matah)#38000
-29#0#Chicken Bulgogi Dubab (Bulgogi Sauce)#38000
-29#0#Fish Bulgogi Dubab (Sambal Matah)#38000
-29#0#Fish Bulgogi Dubab (Bulgogi Sauce)#38000
-29#0#Popcorn Chicken Spicy#38500
-29#0#Popcorn Chicken Honey#38500
-29#0#Tteokbokki#49500
-29#0#Patbingsoo Bibimbab#42000
-29#0#Cheese Kimchi Fried Rice#46500
-29#0#Patbingsoo Chicken Dub Bab#42000
-29#0#Patbingsoo Beef Dub Bab#42000
-29#0#Dynamite Spamm (Halal)#64000
-29#0#Patbingsoo Bulgogi Set#53000
-29#0#Chicken Skin#36500
-29#0#Chicken Wings Honey#46500
-29#0#Chicken Wings Spicy#46500
-29#0#Fried Woosamgyeob#77000
-29#0#Cheese Tteokbokki#71500
-29#0#Patbingsoo Beef 'n Chips#53000
-29#0#Chicken Mac & Cheese#60500
-29#0#Kimbab Woosamgyeob (biasa)#47500
-29#0#French Fries#27500
-29#0#Salmon Skin With Cheese & Fries#42000
-29#1#Mango Smoothies#33000
-29#1#Mango & Pakcoy Smoothies#33000
-29#1#Strawberry Smoothies#33000
-29#1#Green Tea Blended#33000
-29#1#Green Tea Plum Blended#33000
-29#1#Blue Hawaii Yakult Soda#33000
-29#1#Yuzu Tea#31000
-29#1#Peach Tea#31000
-29#1#Lychee Tea#31000
-29#1#Yuzu Soda#31000
-29#1#Lychee Soda#31000
-29#1#Peach Soda#31000
-29#1#Lychee Collagen Tea#33000
-29#1#Peach Collagen Tea#33000
-29#1#Grape Soda#33000
-29#1#Lychee Soda#33000
-29#1#Peach Soda#33000
-29#1#Mineral Water#12000
-30#0#Ramen Tomyam#30000
-30#0#Ramen Chicken Broth#30000
-30#0#Ramen Shoyu#30000
-30#0#Ramen Volcano#30000
-30#0#Ramen Miso#30000
-30#0#Chicken Katsu#15000
-30#0#Siomay Udang#15000
-30#0#Gyoza#15000
-31#0#Kalbi Set#105000
-31#0#Bbq Mix Set#93500
-31#0#Bulgogi Set#83000
-31#0#Slice Beef#61000
-31#0#Slice Beef With Sweet Sauce#64000
-31#0#Samyang#45000
-31#0#Fire Chicken Cheese#61000
-31#0#Wingchon 5 Pieces#37000
-31#0#Wingchon 7 Pieces#50000
-31#0#Wingchon 10 Pieces#71500
-31#0#Bibimbap Chicken#50000
-31#0#Bibimbap Beef#55000
-32#0#Original Tokpokki#40000
-32#0#Cheese Tokpokki#52000
-32#0#RapokKi Tokpokki#57000
-32#0#Japchae Tokpokki#57000
-32#0#Carbonara Tokpokki#55000
-32#0#Bulgogi Tokpokki#75000
-32#0#The Royal Tokpokki#160000
-32#0#Cream Tokpokki#63000
-32#0#Original Kimbab#40000
-32#0#Bulgogi Kimbab#52000
-32#0#Tuna Kimbab#50000
-32#0#Kimchi Kimbab#46000
-32#0#Salad Kimbab#46000
-32#0#Ugly Kimbab Original#11000
-32#0#Ugly Kimbab Bulgogi#13000
-32#0#Ugly Kimbab Tuna#13000
-32#0#Original Ramion#40000
-32#0#Tok Ramion#45000
-32#0#Yukgaejang Mion#63000
-32#0#Japchae Mion#63000
-32#0#Seolleongtang Mion#63000
-32#0#Buldak Bokkeum Udang#69000
-32#0#Jjajang Mion#63000
-32#0#Chicken Gangjeong Rice#83000
-32#0#Cheese Buldak Rice#78000
-32#0#Kimchi Fried Rice (Sosis)#69000
-32#0#Bulgogi Depbab Rice#68000
-32#0#Dolsot Bibimbab Rice#69000
-32#0#Sundubu Jjigae Rice#78000
-32#0#Kimchi Jjigae Rice#69000
-32#0#Tukbaegi Bulgogi Rice#82000
-32#0#Dakdoritang (Small)#75000
-32#0#Galbitang#78000
-32#0#Dakdoritang (Regular)#172000
-32#0#Denjang Jjigae#75000
-32#0#Kimchi Fried Rice (Tuna)#75000
-32#0#Seolleongtang (Rice)#63000
-32#0#Yukgaejang (Rice)#63000
-32#0#Galbi-jjim#82000
-32#0#Sogogi Bokum#78000
-32#0#Rice#8000
-32#0#Patbingsu#46000
-32#0#Mango Bingsu#57000
-32#0#Choco Bingsu#63000
-32#0#Greentea Bingsu#57000
-32#0#Odeng Panjang#11000
-32#0#Odeng Tipis#11000
-32#0#Seafood Pancake#63000
-32#0#Chicken Tangsuyuk Small#52000
-32#0#Chicken Tangsuyuk Large#75000
-32#0#Cheese Stick#12000
-32#0#Kimchi 250g#23000
-32#0#Extra Cheese (Mozzarella)#8000
-32#1#Coffee#17000
-32#1#Koreano - Mixed#29000
-32#1#Caffe Latte#28000
-32#1#Lemon Tea#23000
-32#1#Lime Squash#29000
-32#1#Milk Shake#29000
-32#1#Sprite#17000
-32#1#Coca-Cola#17000
-32#1#Mineral Water#11000
-32#1#Ocha#9000
-32#1#Blueberry Yogurt#40000
-32#1#Cappuccino Shake#35000
-32#1#Choclate Shake#35000
-32#1#Cube Latte#40000
-32#1#Es Teh Manis#8000
-32#1#Es Teh Tawar#5000
-32#1#Greentea Shake#35000
-32#1#Oreo Shake#35000
-32#1#Phong-phong Shake#40000
-32#1#Plain Yogurt#35000
-32#1#Redbean Shake#40000
-32#1#Strawberry Shake#40000
-32#1#Strawberry Yogurt#40000
-32#1#Well-being Grain#35000
-32#1#Yuja Ade#35000
-32#1#Yujacha#35000
-33#0#Krupuk Gendar Beras#9000
-33#0#Krupuk Ikan#13000
-33#0#Krupuk Kulit Babi#17500
-33#0#1 ons Babi Panggang#75000
-33#0#1 ons Charsiew#75000
-33#0#1 ons Garing Madu#80000
-33#0#Nasi Putih/Hainam Ayam Rebus#45000
-33#0#Nasi Putih/Hainam Ayam Panggang#45000
-33#0#Nasi Putih/Hainam Campur#48000
-33#0#Nasi Putih/Hainam Campur Spesial#48000
-33#0#Nasi Putih/Hainam Campur Garing Madu#48000
-33#0#Nasi Putih/Hainam Babi#48000
-33#0#Nasi Hainam Anak Bebek#70000
-33#0#Nasi Tumpeng Hainam#1400000
-33#0#Nasi Hainam#13000
-33#0#Nasi Putih#8000
-33#0#Telur Saos Manis#8000
-33#0#Telur Phitan#17000
-33#0#1/2 ekor Ayam Rebus#80000
-33#0#1 ekor Ayam Rebus#160000
-33#0#1/4 ekor Ayam Panggang#50000
-33#0#1/2 ekor Ayam Panggang#80000
-33#0#1 ekor Ayam Panggang#160000
-33#0#1/2 ekor Anak Bebek#100000
-33#0#1 ekor Anak Bebek#200000
-33#0#Baso Goreng Babi (1pcs)#10000
-33#0#Kuo Tie Goreng (4pcs)#35000
-33#0#Ngohiong (per roll)#40000
-33#0#Sate Babi (5 Tusuk)#40000
-33#1#Liang Teh Malaysia#14000
-33#1#Badak (Sarsaparilla)#15000
-33#1#Kietna (Buah Jeruk Kesturi)#16000
-33#1#Tur Lemon (Lemon Asli)#16000
-33#1#Markisa Asli#16000
-33#1#Susu Kacang Kedelai (Home Made)#13000
-34#0#Bunga Pepaya#30000
-34#0#Daging Se'i Babi Biasa#54000
-34#0#Daging Se'i Babi Samcam#60000
-34#0#Nasi Campur Se'i Babi#60000
-34#0#Daging Se'i Babi Rica#60000
-34#0#Sambal Lu'at#72000
-34#0#Nasi Se'i Sapi#60000
-34#0#Nasi Se'i Ayam#45000
-35#0#Bakpao Spesial#23000
-35#0#Bakpao Babi Kecap#13000
-35#0#Bakpao Babi Charsiu#13000
-35#0#Bakpao Ayam Kecap#13000
-35#0#Bakpao Tausa#13000
-35#0#Bakpao Kacang Ijo#13000
-35#0#Bakpao Coklat#13000
-35#0#Bakpao Kacang Tanah#13000
-35#0#Bakpao Coklat Keju#13000
-35#0#Bakpao Coklat Kacang#13000
-35#0#Bakpao Bakso Goreng#7500
-36#0#Sate Taichan Bakar Gulung#37500
-36#0#Sate Taichan Bakar Dabu-Dabu#25000
-36#0#Sate Taichan Bakar Telur Asin#25000
-36#0#Sate Taichan Bakar Kulit#25000
-36#0#Sate Taichan Bakar Ayam#25000
-36#0#Sate Taichan Goreng Ayam Pedas Asin#25000
-36#0#Sate Taichan Goreng Kerang#25000
-36#0#Ropang Telur Kornet#28000
-36#0#Ropang Nutella Coklat Keju#28000
-36#0#Ropang Nutella Doubel Coklat#25000
-36#0#Ropang Nutella#25000
-36#0#Ropang Selai Strawberry#25000
-36#0#Ropang Double Coklat#24000
-36#0#Ropang Selai Kacang#23000
-36#0#Ropang Coklat#17000
-36#1#Es Milo Dino#15500
-36#1#Es Cincau Selasih#15500
-36#1#Es Lemon Tea Nata De Coco#15500
-36#1#Es Susu Cincau Selasih#15500
-36#1#Nata De Coco#15500
-36#1#Es Poci Cincau#15500
-36#1#Es Poci Rasa#13000
-36#1#Es Jeruk#13000
-36#1#Es Lidah Buaya#12500
-36#1#Es Poci #12500
-36#1#Es Kopi Jahe#12500
-36#1#Jahe Susu#12500
-36#1#Es Kopi Cappucino#12500
-36#1#Es Kopi Sachet#12500
-36#1#Es Lemon Tea#10500
-36#1#Kopi Cappucino#10500
-36#1#Wedang Jahe#9500
-36#1#Kopi Susu#9000
-36#1#Aqua#7500
-36#1#Es Nutrisari#6500
-36#1#Kopi Sachet#6500
-36#1#Teh Pucuk#6500
-36#1#Teh Manis#5500
-36#1#Teh Tawar#4000
-37#0#Ayam Srundeng Manis#27000
-37#0#Ayam Srundeng Asin#27000
-37#0#Spicy Chicken Crispy Skin BBQ#23000
-37#0#Chicken Crispy Skin BBQ#23000
-37#0#Chicken Crispy Skin Original#19000
-38#0#New York Cheese Cake#34000
-38#0#Red Velvet Cake#28000
-38#0#Espresso Brownie#24000
-38#0#Scarlet Velvet Cake#35000
-38#0#Banana Cake#21000
-38#0#Classic Dark Chocolate#35000
-38#0#Hershey's Marble Cheesecake#35000
-38#0#Cheese Butter Cake#34000
-38#0#Classic Cheese Muffin#32000
-38#0#Dates and Nutes Pound Cake#32000
-38#0#Praline Mocha Cake#34000
-38#0#Taro Muffin#32000
-38#0#Raisin Oatmeal Scone#23000
-38#0#Oreo Cheese Cake Cookie#17000
-38#0#Chocolate Stroop Wafel#15000
-38#0#Caramel Stroop Wafel#15000
-38#0#Chewy Double Chocolate Cookie#15000
-38#0#Chocolate Chip Cookie#16000
-38#0#Oatmeal Raisin Cookie#16000
-38#0#Beef Filone#38000
-38#0#Smoked Beef Mushroom & Cheese Panini#46000
-38#0#Peanut Butter Panini#22000
-38#0#Tuna Cheese Whole Wheat Panini#42000
-38#0#Chicken Omelette in Croissant Bun#45000
-38#0#All Day B'fast Bun#35000
-38#0#Corned Beef Panini#42000
-38#1#Midnight Mocha Frappuccino Venti#65000
-38#1#Midnight Mocha Frappuccino Grande#61000
-38#1#Midnight Mocha Frappuccino Tall#56000
-38#1#Midnight Chocolate Frappuccino Venti#65000
-38#1#Midnight Chocolate Frappuccino Grande#61000
-38#1#Midnight Chocolate Frappuccino Tall#56000
-38#1#Tea-ramisu Cream Frappuccino Venti#65000
-38#1#Tea-ramisu Cream Frappuccino Grande#61000
-38#1#Tea-ramisu Cream Frappuccino Tall#56000
-38#1#Vanilla Sweet Cream Cold Brew Venti#48000
-38#1#Vanilla Sweet Cream Cold Brew Grande#46000
-38#1#Vanilla Sweet Cream Cold Brew Tall#44000
-38#1#Cold Brew Coffee Venti#45000
-38#1#Cold Brew Coffee Grande#43000
-38#1#Cold Brew Coffee Tall#40000
-38#1#Caramel Macchiato Venti#65000
-38#1#Caramel Macchiato Grande#61000
-38#1#Caramel Macchiato Tall#56000
-38#1#Caramel Macchiato Short#51000
-38#1#Caffe Mocha Venti#59000
-38#1#Caffe Mocha Grande#56000
-38#1#Caffe Mocha Tall#52000
-38#1#Caffe Mocha Short#47000
-38#1#Caffe Latte Venti#51000
-38#1#Caffe Latte Grande#48000
-38#1#Caffe Latte Tall#44000
-38#1#Caffe Latte Short#40000
-38#1#Cappucino Venti#51000
-38#1#Cappucino Grande#48000
-38#1#Cappucino Tall#44000
-38#1#Cappucino Short#40000
-38#1#Hazelnut Latte Venti#57000
-38#1#Hazelnut Latte Grande#54000
-38#1#Hazelnut Latte Tall#50000
-38#1#Hazelnut Latte Short#46000
-38#1#Caramel Latte Venti#57000
-38#1#Caramel Latte Grande#54000
-38#1#Caramel Latte Tall#50000
-38#1#Caramel Latte Short#46000
-38#1#Asian Dolce Latte Venti#59000
-38#1#Asian Dolce Latte Grande#56000
-38#1#Asian Dolce Latte Tall#52000
-38#1#Asian Dolce Latte Short#47000
-38#1#Caffe Americano Venti#39000
-38#1#Caffe Americano Grande#37000
-38#1#Caffe Americano Tall#34000
-38#1#Caffe Americano Short#31000
-38#1#Double Shots Iced Shaken Espresso#48000
-39#0#Tom Yam Seafood#63800
-39#0#Tom Yam Udang#63800
-39#0#Tom Yam Ikan#52800
-39#0#Kari Hijau Ayam#52800
-39#0#Kari Pedas Ayam#52800
-39#0#Kari Pedas Sapi#52800
-39#0#Masaman Sapi#52800
-39#0#Ikan Goreng Saos Aroi#132000
-39#0#Ikan Tim Lemon#148500
-39#0#Ikan tim Kiamboy#148500
-39#0#Daging Merah#52800
-39#0#Cumi Lada Hitam#38500
-39#0#Ayam Goreng Aroi#27500
-39#0#Pad Thai#41800
-39#0#Nasi Goreng#41800
-39#0#Nasi Basil#38500
-39#0#Nasi Putih#8800
-39#0#Ngohiang#12000
-39#0#Bakso Udang#9600
-39#0#Ikan Hiu goreng#7200
-39#1#Ketan Mangga#44000
-39#1#Thai Tea#19800
-39#1#Green Thai Tea#19800
-40#0#Thai Chicken Wing#37716
-40#0#Crispy Chicken wing#37716
-40#0#Thai Fish Cake#55704
-40#0#Sesame Shrimp Toasts#44679
-40#0#Deep Fried Soft Shell Crab#44679
-40#0#Crab Spring Roll#37716
-40#0#Spring Roll#29013
-40#0#Thai Prawn Cake#55704
-40#0#Crispy Shrimp Triangles#44679
-40#0#Mango Salad#40618
-40#0#Papaya Salad#37716
-40#0#Larb Chicken#45260
-40#0#Crispy Papaya Salad#37716
-40#0#Thai Grilled Beef Salad#56865
-40#0#Seafood Salad With Vermicelli#56865
-40#0#Tom Kha Chicken#56865
-40#0#Tom Yum Chicken#56865
-40#0#Tom Yum Seafood#68470
-40#0#Tom Kha Seafood#68470
-40#0#Tom Yum Goong#68470
-40#0#Tofu Chicken Soup#45260
-40#0#Tofu Nam Deng#56865
-40#0#Crab Claws With Thai Chilli Sauce#80075
-40#0#Crab Claws With Vermicelli Noodle#80075
-40#0#Crab Claws With Asian Hot Chilli#80075
-40#0#Crab Claws With Pong Curry Sauce#80075
-40#0#Soft Shell Crab With Rock Salted#67309
-40#0#Soft Shell Crab With Salted Egg Yolk#67309
-40#0#Soft Shell Crab With Thai Hot Chilli#67309
-40#0#Soft Shell Crab With Sam Rod Sauce#80075
-40#0#Soft Shell Crab With Pong Curry Sauce#67309
-40#0#Salted Egg Ssquid#80075
-40#0#Crispy Battered Squid#75433
-40#0#Chilli Rock Salted Squid#67309
-40#0#Grilled Squid With Soy Sauce#67309
-40#0#Grilled Squid With Lemon Sauce#67309
-40#0#Prawn Chilli Rock Salted#80075
-40#0#Prawn With Chu Chi Curry#80075 
-40#0#Prawn With Vermicelli Noodle#80075
-40#0#Mussel Pad Cha#78914
-40#0#Kerang Batik With Thai Chilli Sauce#55704
-40#0#Kerang Kepa With Thai Chilli Sauce#55704
-40#0#Fish With Sweet & Sour Sauce#55704
-40#0#Fish With Sam Rod Sauce#55704
-40#0#Fish With Asian Herb#55704
-40#0#Fish With Fresh Chilli#55704
-40#0#Hk Kailan Beef#52223
-40#0#Hk Kailan Prawn#48741
-40#0#Hk Kailan Minced Garlic Oyster Sauce#45260
-40#0#Stir Fry Broccoli Minced Garlic#45260
-40#0#Stir Fry Broccoli Prawn#48741
-40#0#Stir Fry Broccoli Beef#52223
-40#0#Stir Fry Assorted Vegetables#48741
-40#1#Thai Iced Milh Tea#30753
-40#1#Thai Iced Milk Tea#22630
-40#1#Thai Iced Green Tea#22630
-40#1#Ice Tea#17408
-40#1#Orange Grandma Ice Tea#34235
-40#1#Hot Tea#17408
-40#1#Hot Green Tea#22630
-40#1#Thai Iced Green Tea#30753
-40#1#Thai Iced Coffe#30753
-40#1#Thai Iced Coffee#22630
-40#1#Melon Juice#34235
-40#1#Semangka Juice#34235
-40#1#Mango Juice (Seasonal)#40618
-40#1#Apple Mint Orange#34235
-40#1#Matcha Lychee#40618
-40#1#Coconut Durian#40618
-40#1#Peach Pineapple Apple#40618
-40#1#Iced Lychee Tea#34235
-40#1#Mango Coconut#40618
-40#1#Still Mineral Water#11605
-41#0#Chicken Briyani w/ Curry#34000
-41#0#Lamb/Beef Biryani w/ Curry#37500
-41#0#Lamb/Beef Thali#59500
-41#0#Chicken Thali#59500
-41#0#Vegetarian Thali#49000
-41#0#Seekh KezúÂb¬T–ÂcÃûÔT‰ÔMþ=²z^”Ö}[$°=e}+„ó¥ªü¸aõ «)–ÅõƒWÎ‘“ë~\FéSs Î+¸óà×ÍÛžPCWŸ1Õ?´¼›ã¹L7þÉ úl*„D8#v®¡{kðrI&ßsC>¡€—)Rº‚’@M'Þ64Ä…V¦51ü?`±•ÉDý_í*_šý ÊÑ^pÔM¶î­œ-F²µr¤¶®+–sGLi®¾¬ŸïŠŸ´W_ç÷¨í!ÊMÒ>V»UÒ uSÌ‘y~0å‘ ç	Cê]æ÷\V¡ùQs!8´þžéóU•¯ÀSºÝ f§›:–xÅN?¦?›È@}‘@'Ž6Ä”–ªe4b^j¦ô!—é§ÉéÓžqDMÚî€\0Ö»tYtØb{^d“ÇÁ@ÂuÔ¬ÔVô_¦ÅÇøù..Nqo«%v7Šÿ›;ü%†\1jÉ2zyŠ‹|<1;TÃ,Â¢î˜í×pµO›˜¹8·½Eš˜
-K:ÊxüŽ-v£2Î%xr‹>¼ !/w[¡¨ëcÒqªä>Û ´/0Ûˆ=™°ËIê]$•7ýD„vh­Å–²OHI]e9]<…ZªrS‰”Otow<ÉþÑGOá©US$@T o·C16ÇÅ­¬Üt$Ì°ùX¨©ûµ\-˜¼Lå^g”øýGD¹x;«ÿÓi´uì7]9Ö•Yü©Ü£µUÞ–ƒu±·ÛœÍúFüà¤5Æ|ùMngþoEgø©¡EµÜ¦5h…+f¡†1xmË6Œµ-˜-˜Ž·ù.âµÒ¬MíâŒŽ¶w	Ù§»GNY_ÖTŒ­`8£Ù’ñÌåè6%}w4÷’ƒ¦j³¦YVÓWFåâ›æÄMTf,w€Š¬_f¨zÌÒÔÎàkiNÓ	v-Jq%v^ãó‚îÊ­6€kËÄûÿÑˆ-éâc` su›ˆDa4{Ä~èlg6ñÆ”½€v'5Iè	ïçq÷­‘þJ…|è
-å¦j‡	f*FM`ðmæÍC¹Û` sPuH
-q”·r+É3|{:³Ú®Ü»J`'ï'q1OøØÈ©ÓµÜ%øº¿Nßçô˜ÕoZ'ðSÍQy•Ët79àO§§ãÖ wc=ùmj#<Š®Ø;4n|‡ÍNæGOù)Ë?¶íËæ|æMX§¿»ëz®í•Ö´N§›¬È.E.Lð\m¢öéÖ!±ßóK–ˆQÇÝïd§ÀÖ<Œƒà$ÃÐz÷g<Wº£škîêG„{êã- F£b©ÑÅ[@¨mcÁùê™ÔzŒK"pJ7zúÂb¬T–ÂcÃûÔT‰ÔMþ=²z^”Ö}[$°=e}+„ó¥ªü¸aõ «)–ÅõƒWÎ‘“ë~\FéSs Î+¸óà×ÍÛžPCWŸ1Õ?´¼›ã¹L7þÉ úl*„D8#v®¡{kðrI&ßsC>¡€—)Rº‚’@M'Þ64Ä…V¦51ü?`±•ÉDý_í*_šý ÊÑ^pÔM¶î­œ-F²µr¤¶¦+–sGLi®¾¬ŸïŠŸ´W_ç÷¨í!ÊMÒ>V»UÒ uSÌ‘y~0å‘ ç	Cê]æ÷\V¡ùQs!8´þžéóU•¯ÀSºÝ f§›:–xÅN?¦?›È@}‘@'Ž6Ä”–ªe4b^j¦ô!—é§ÉéÓžqDMÚî€\0Ö»tYtØb{^d“ÇÁ@ÂuÔ¬ÔVô_¦ÅÇøù..Nqo«%v7Šÿ›;ü%†\1jÉ2zyŠ‹|<1;TÃ,Â¢î˜í×pµO›˜¹8·½Eš˜
-K:ÊxüŽ-v£2Î%xr‹>¼ !/w[¡¨ëcÒqªä>Û ´/0Ûˆ=™°ËIê]$•7ýD„vh­Å–²OHI]e9]<…ZªrS‰”Otow<ÉþÑGOá©US$@T o·C16ÇÅ­¬Üt$Ì°ùX¨©ûµ\-˜¼Lå^g”øýGD¹x;«ÿÓi´uì7]9Ö•Yü©Ü£µUÞ–ƒu±·ÛœÍúFüà¤5Æ|ùMngþoEgø©¡EµÜ¦5h…+f¡†1xmË6Œµ-˜-˜Ž·ù.âµÒ¬MíâŒŽ¶w	Ù§»GNY_ÖTŒ­`8£Ù’ñÌåè6%}w4÷’ƒ¦j³¦YVÓWFåâ›æÄMTf,w€Š¬_f¨zÌÒÔÎàkiNÓ	v-Jq%v^ãó‚îÊ­6€kËÄûÿÑˆ-éâc` su›ˆDa4{Ä~èlg6ñÆ”½€v'5Iè	ïçq÷­‘þJ…|è
-å¦j‡	f*FM`ðmæÍC¹Û` sPuH
-q”·r+É3|{:³Ú®Ü»J`'ï'q1OøØÈ©ÓµÜ%øº¿Nßçô˜ÕoZ'ðSÍQy•Ët79àO§§ãÖ wc=ùmj#<Š^(1ù£dŸUÖÈ)»³ÌJÙ;š þd~Õ—hCƒŽÞ†ú÷Vê’'EÈ!– D´ß}Ò´[jSoP,¼SÑx¡ëñ"©¿ØN¤CLØöåŠ.Kñš¢‡;U¤r±‡÷*§·Rä/ÜI×Ú2‘Ÿ9ýþíh%ü	F®üÐ­Š
-îNa™ŽZû4(úa¼$½Ò8ðbF—²§Ø…¥Á™…ÿ,ìuŸu¨§p4ˆûl	øS.‘4ÑÃœgäÆï¶Å¾ÍÖ3 k/1'«e³§<³ü'¬$,v°ËË(5ü”-ƒµÉ¥„{£-÷ñjŽå±ÞØt²Ï'š¥—ÈJr¾lÝ€?Æ®¬JªZ ÏLX\åÇuåfÿ-¢ˆ,J±\«K¿9þ>,Z×n‹@K˜_8*’c.§øsËÈ:°õŠ¹Ð±.cK¥þ2m¸KÔ	á±ÿm5Òõ¿¥á—àÚ[¬uóËéÝÄL™î¤)Í^›6Gº–W'·÷[`ÝÖ§iÍÃø®ý°½lÜ@?–®[jVPž¢ýìm¡ÐŽŒä+EsŸ/b‰¼JÝqÚ¶Û¶•øÃîõ(NWÙ“|‹_Y‰(™á¦sŠ
-àá¶¶Á}ZžÙŠÏrø	jî½žñ(
-Ð«ð5Î‚ŒÍ·6ØO¶XR´Á½­W v÷Këˆpjh&g÷`äµ¹À_ý>à2Ý€uŒÏM†§"z×-2qŸ.ý‰­ŠÏ]†¹"¼WÍiœç„'E<¯2‹xŠ]˜5fžc…„Eýö’ëÀ°oVŽ«q“H…žñºÄó]ËÕ{U©ê«#±¥¦éºN½º]_]\0ð¹éÔ¨aÀ_gU€=¬Ý´ÚýFÿ72»¸ŒMÇW+n³„±Û4ÛÕf3 _M­Ù‘r„71ÖA`ÜýÌˆødáÕö¨1“¹RÍñY3ˆx Ä>­§J×š!”zÍö€jÌÇ}€3 •–¡KâÖå²#]Ëkï ,íù)‹—ŠƒAGNÌCbœÄ–ìbàÉ%û=eïû8n“_OZ¡®ÔP·dëÉÁØü¶‹|rô	«®—.üÁ‡^NT›EbÄn5Òéê¹¢Æ·:M¦ÓÜcgÝåt´è›g‚êó…Ií¸á^‚òôk`Ç @°ú«¯ÓùÃË¼:—µ	Û1¶yIÝúŠFJß~²Þ‚¯‘:Ó1¿AåÜgñ‚ÖóE†ý-Ž×1Ëx{ŠË5…×£P7ÐúøçÃê¼)W`@_U/€#,ÕÔ–rƒÇlW“¦Å¯1©’Ì…ý±“4í™Ã†=è[.§p’Ì`‚æ¯¦^(1ù£dŸUÖÈ)»³ÌJÙ;š þd~Õ—hCƒŽÞ†ú÷Vê’'EÈ!– D´ß}Ò´[jSoP,¼SÑx¡ëñ"©¿ØN¤CLØöåŠ.Kñš¢‡;U¤r±‡÷*§·Rä/ÜI×Ú2‘Ÿ9ýþíh%ü	F®üÐ­Š
-îNa™ŽZû4(úa¼$½Ò8ðbF—²§Ø…¥Á™…ÿ,ìuŸu¨§p4ˆûl	øS.‘4ÑÃœgäÆï¶Å¾ÍÖ3 k/1'«e³§<³ü'¬$,v°ËË(5ü”-ƒµÉ¥„{£-÷ñjŽå±ÞØt²Ï'š¥—ÈJr¾lÝ€?Æ®¬JªZ ÏLX\åÇuåfÿ-¢ˆ,J±\«K¿9þ>,Z×n‹@K˜_8*’c.§øsËÈ:°õŠ¹Ð±.cK¥þ2m¸KÔ	á±ÿm5Òõ¿¥á—àÚ[¬uóËéÝÄL™î¤)Í^›6Gº–W'·÷[`ÝÖ§iÍÃø®ý°½lÜ@?–®[jVPž¢ýìm¡ÐŽŒä+EsŸ/b‰¼JÝqÚ¶Û¶•øÃîõ(NWÙ“|‹_Y‰(™á¦sŠ
-àá¶¶Á}ZžÙŠÏrø	jî½žñ(
-Ð«ð5Î‚ŒÍ·6ØO¶XR´Á½­W v÷Këˆpjh&g÷`äµ¹À_ý>à2Ý€uŒÏM†§"z×-2qŸ.ý‰­ŠÏ]†¹"¼WÍiœç„'E<¯2‹xŠ]˜5fžc…„Eýö’ëÀ°oVŽ«q“H…žñºÄó]ËÕ{U©ê«#±¥¦éºN½º]_]\0ð¹éÔ¨aÀ_gU€=¬Ý´ÚýFÿ72»¸ŒMÇW+n³„±Û4ÛÕf3 _M­Ù‘r„71ÖA`ÜýÌˆødáÕö¨1“¹RÍñY3ˆx Ä>­§J×š!”zÍö€jÌÇ}€3 •–¡KâÖå²#]Ëkï ,í7ç–ŠÔÝ±·5·vWWŽô¬ÏýÔ{¥Í•”nÎýì‹GQ^»?¡Ö¯óÑ©°LÀ7‚fÄ"œNÙï6þäÞUX@šžÅ©’ßŒ1ŒÞ¯Ðôœø#,+èvç¬ ^£êkh7_A¯Q…ÐQîÉ¹àrµò ¨•’ÃcÖ7ÞÖâdgEërî%êQÅ4Û—[áŽÉ¥·šŸ"Ëzô±³D7dA]î•¾ÅœÁ;?~‡7Ï»8_`J6)Þ´âÙ§;j2Æ¼˜;âÉ‹,Ýó7b/ 5
-ÝäzYqý£0H!,õñ«6£ëÞÈ'yÍµxšŽÇ æ,
-§ý”o.­ý( ÔRõ‡~X”®¢]Ð–ÆÍ±¦…ý’ðz“Ž H,o6™Dø4æ²Ýâ4¤;a¼¶oöì|÷O(5ßvyKîýDÉ3V¯ÄRýü@`‘…j©Ì]ëEÈçVÄ!¿j‚ÚÔÉ‘‚ÝN»™^Æ”`DÄóS?Ç~ü!€9»iy¤êsÏ%®!’¶ìw,‡4K½ŠÒu`CYÀ-Ç°¿\8K'B£Aþ±·cÛ„wTv!xØbà“&Ã[-¢´³}}i!®¢F×\_xC#XÓ0~·òdBì |6c»EŸAÚÅ®A.·z•´‚Íç'x„¼£qƒÞÏ6Õ×>9ÉÂQ€Z¬¼Ð¥õ’çféxÜ%Þªé¨S§Q–Žœœž{/$-êŠ˜Šnµži6nÖ–d@ñÂå0"½{…kã/3æ»$rš„ÊŠþ-Ê¾ôâUŽøU³h"C´›{Y–¼öö·¡›ÕFó^÷
-X™:ª©-­Ü\øPk¶å~C q‚ÏfÕë>nùÅHÕéÎ°e£<”üC-Ã/d)yL%²ªÄhÃ®ýs^;æSJ‡ÍŒ{$"º8»ùhÊn—VTÍÍ´ôîB†’Á?‚—fß[,é0b¸@~…rqâã8xµ.°'èœÐ©ÜDã]§x{CÂØxh¤¦;z©YmÎŒõÌn&«y-pãzø4:b¿E‚ÁÔeyÂå zï4¡:Ô?-¢§úÚyµÌvÔ¾ëE€û¨ƒ~ÛÚõµ†öÃ§xS¨wÅ[ü'0+CÜë5£eËâ[L|[¢VÕÒíï“’-íç·$X»jRÆ”˜%b©„ß¶„w(+”UŒ÷ÛÜ1¨i,Ãq½Öƒk½]¶þÇ1…ƒÎx)ÐlÂ3Ñ•¦U”® *JÕ?—.Ö&ð4EÖ’D	9Œ1†p£rÈ28þÉ²¤ N&ŠÝ–èyÙ÷hjœ]7ç–ŠÔÝ±·5·vWWŽô¬ÏýÔ{¥Í•”nÎýì‹GQ^»?¡Ö¯óÑ©°LÀ7‚fÄ"œNÙï6þäÞUX@šžÅ©’ßŒ1ŒÞ¯Ðôœø#,+èvç¬ ^£êkh7_A¯Q…ÐQîÉ¹àrµò ¨•’ÃcÖ7ÞÖâdgEërî%êQÅ4Û—[áŽÉ¥·šŸ"Ëzô±³D7dA]î•¾ÅœÁ;?~‡7Ï»8_`J6)Þ´âÙ§;j2Æ¼˜;âÉ‹,Ýó7b/ 5
-ÝäzYqý£0H!,õñ«6£ëÞÈ'yÍµxšŽÇ æ,
-§ý”o.­ý( ÔRõ‡~X”®¢]Ð–ÆÍ±¦…ý’ðz“Ž H,o6™Dø4æ²Ýâ4¤;a¼¶oöì|÷O(5ßvyKîýDÉ3F¯ÄRýü@`‘…j©Ì]ëEÈçVÄ!¿j‚ÚÔÉ‘‚ÝN»™^Æ”`DÄóS?Ç~ü!€9»iy¤êsÏ%®!’¶ìw,‡4K½ŠÒu`CYÀ-Ç°¿\8K'B£Aþ±·cÛ„wTv!xØbà“&Ã[-¢´³}}i!®¢F×\_xC#XÓ0~·òdBì |6c»EŸAÚÅ®A.·z•´‚Íç'x„¼£qƒÞÏ6Õ×>9ÉÂQ€Z¬¼Ð¥õ’çféxÜ%Þªé¨S§Q–Žœœž{/$-êŠ˜Šnµži6nÖ–d@ñÂå0"½{…kã/3æ»$rš„ÊŠþ-Ê¾ôâUŽøU³h"C´›{Y–¼öö·¡›ÕFó^÷
-X™:ª©-­Ü\øPk¶å~C q‚ÏfÕë>nùÅHÕéÎ°e£<”üC-Ã/d)yL%²ªÄhÃ®ýs^;æSJ‡ÍŒ{$"º8»ùhÊn—VTÍÍ´ôîB†’Á?‚—fß[,é0b¸@~…rqâã8xµ.°'è ì”á eŸž'¦bÂu˜šGM½¨,‹(è‘vÔúÃÆÖ‹³JCÁ•´0h8Âå¦kÚö‚kL™CN•«0S¸JÅ?›¼Ç>ô2cÚQ£ eÇ”¾C?>Í`§ÃÂéM’¢z zUŽ	â©Öá²$¬¡]á åÕ=)µú¨\RUŠˆ¯®ÐS`ü]6|.}À^/”°`;5Žb‘bc’‘q°3£ ¨u‘¢È&Éö:±äÔ«F¦Wþ$"Äÿ®·þì¨B±¬)Hkù`º¯0«­2ÂÈ£0öþ³ÜiŽ9ý‹¬
-Kñ“ 2‡yNÕÃ¿ñéÝ#t¯ÑØxýïíû:Û«·09‰ÓQ3µíkóÀéŸAõ­rˆªiGVn¢»®ª¥–;˜wùÛ.7+aˆyÿÏm"=ïÓh±™ƒâieB¤~¦ýOt»è‹6;JìÈ¡:÷þúOŒÌ]Iåá¡Áfà—[W6‰vÿ­¦KŒS¢ŸDxêãë€_}”Š`ŸP´ çªfðeÙ¶/CÓþ%¸Ç.ÅKJî¡}ÅàWiÙúz#:À¾½G&–Å±¿Ø-
-+ãPáŸýÝV|}ÞÞ'ô¶È9ËâñKºï8[Å¢ŠT
-	q¢€&ÿv,Qê¯%a¶@lr	@qÇ¬Ú7C¬WÈK™x’š1·+É3ºš¼6¬ãHÆ9jªs#rü],T«ÉÛ2„
-Ï«c‰&¿¬ß‹|C>®¼ÛŠSËÑ˜wÓ95ñxõkK jÅ¦õ;?Lsâüìa;Þ÷<Î¦8åek2ö8+ä©ï“TAzxøÎnÛ#FÄÇf]eÓœAÖOòJÅªŽ
-‘HãŽñxX5mŽôÉê`ùŒfºµŸÛ_,˜ýóXèW¸ˆÂÑŽðˆ3Då_wû½ö~IV˜AU“F¢ïd¹ž}'™â6ÕÁ	ŸëE9E¶—i±Â&½zºÕ²>C4ˆJ`@¸€žLg:÷31Zƒsýùþ=l½â¾”-Zè´ÁO(èÙVƒ'Œw“Ð	¸Y­Öéû®#e€†Ó+9€ŒéÒùU
-Sër€x=$T˜öž¹WÞ×ƒ”|à®0DÈ/K®'QlŠÉƒI¾š>)0G_(Ž( :ßLtÙmd¥—Má¨K:8œêÑS BLfú÷^3Z
-C­üjVöç«g‰\žöÄª¤HÛ–‚·Œ“ýÉ¥É¤z9Únwc)´CÂÄÞ\ dTöSª²°()++Ð¤T§c-~Äy>Ïæb®ã:å?|'Á:‰ŠKJA¤$7 a ì”á eŸž'¦bÂu˜šGM½¨,‹(è‘vÔúÃÆÖ‹³JCÁ•´0h8Âå¦kÚö‚kL™CN•«0S¸JÅ?›¼Ç>ô2cÚQ£ eÇ”¾C?>Í`§ÃÂéM’¢z zUŽ	â©Öá²$¬¡]á åÕ=)µú¨\RUŠˆ¯®ÐS`ü]6|.}À^/”°`;5Žb‘fc’‘q°3£ ¨u‘¢È&Éö:±äÔ«F¦Wþ$"Äÿ®·þì¨B±¬)Hkù`º¯0«­2ÂÈ£0öþ³ÜiŽ9ý‹¬
-Kñ“ 2‡yNÕÃ¿ñéÝ#t¯ÑØxýïíû:Û«·09‰ÓQ3µíkóÀéŸAõ­rˆªiGVn¢»®ª¥–;˜wùÛ.7+aˆyÿÏm"=ïÓh±™ƒâieB¤~¦ýOt»è‹6;JìÈ¡:÷þúOŒÌ]Iåá¡Áfà—[W6‰vÿ­¦KŒS¢ŸDxêãë€_}”Š`ŸP´ çªfðeÙ¶/CÓþ%¸Ç.ÅKJî¡}ÅàWiÙúz#:À¾½G&–Å±¿Ø-
-+ãPáŸýÝV|}ÞÞ'ô¶È9ËâñKºï8[Å¢ŠT
-	q¢€&ÿv,Qê¯%a¶@lr	@qÇ¬Ú7C¬WÈK™x’š1·+É3ºš¼6¬ãHÆ9jªs#rü],T«ÉÛ2„
-Ï«c	&¿¬ß‹|C>®¼ÛŠSËÑ˜wÓ95ñxõkK jÅ¦õ;?Lsâüìa;Þ÷<Î¦8åek2ö8+ä©ï“TAzxøÎnÛ#FÄÇf]eÓœAÖOòJÅªŽ
-‘HãŽñxX5mŽôÉê`ùŒfºµŸÛ_,˜ýóXèW¸ˆÂÑŽðˆ3Då_wû½ö~IV˜AU“F¢ïd¹ž}'™â6ÕÁ	ŸëE9E¶—i±Â&½zºÕ²>C4ˆJ`@ª’Üª÷ò²ó~Žòöì/ü-/shÑwÅ\)²Õç”§‰rƒÀ´ƒwÞASãnA¤ƒˆÃ–„Z×„ázQGÃ{¿M„Á:	i¼eúù‘«EN‚Ïà¹QFÍ¹Ç L=Š"T|št>“d’´–d}c)Z-ž8½‡–|Ñ8Åv·—€,TéfÐt,\PmÜ«7¢ ²â¾‚¢ó'ÒÃ®b™L¿ D,Ì¢à–Û¦“‰ƒít~r¼‘Èþç®äH¿ïé6´]ükFäÃ:}ÔÕ8xY©¨l`3à];Êör09àí7ÔŒw­®NOQ©þÊ?¨É'²þqmÊ™c³°ÏNŸ?z‚Šˆ–×€pTÐ¦ y‹)õÌY‹ò¯¶OSÑ(	ê²0ÊM&—Ò¦nI‰Só(qê[°âm-‰,WóPq½‹2¬^¯jÕ†.Óòó1qM=O+?Bï7„^P‹_;º,ªìÅ„àÐ-9Gr†Z]" ½¼€@ÎžàœÑpæÞÓrÏL= ­öÉrO¼Ž‹ol~¿~î(­puüþ2L™æb‚Rî™ŸÜ÷¦£ì|8|PÕeFˆGm ?¹=ƒÿ4ðŽóNÓfÃtÙ¯©[á.è]qF}kò/Í·&q¿ÁeÅß'çåS’É;'ýôusþ|úÛHd‚áPyRŒ	Q_¥Bº«a­öãŽ“+ˆÊ³#&?ƒÉ2Å]ÛÊh2€RÔ	`¹1+ð{õÒi³ZbYS vË4EþÚ1ª:ÑçèÓ×§d1 Fê¬Q5´¤Äv]³M
-_ž!;KÛ?¨£[œî¼xELÐ¬øs{ËM£ ¹bˆb­»/õ:ö=¨%Jn;ØEÈ!ˆnÊ¤mx]ÖaqR7nä»¸W›+k·Ð¯…»sËcÐðæ¾ûrÑÌ5d&ô7óÏÜî£Grà7ˆ†®Qa=ü%~$ùBQâ4d³PÑ©¨JHÙo¾È§ŽÔP«åfqog>¸9Û£*WqÊPÎe.Ñ—W|,?CØy)Q»Ùf^ÐÇ£Ë Äk›'˜©Ï›Áþät´˜®s˜A[AUÞ‹ìþúõÈjçžû†í–97‹ìÆÂ€C>¯Ø4éd+ÎJÃ®0¥M(&Ò=.ô¹R§IŽI¯Òjê^þîº8êKµü.“NÄ]bˆ‡Vr'¼ swWx ªÐÌïpé1Û`o—Ó÷„Õ°×|íR¨˜«Tø€›¹VuÏÉºâÛ–¡åóY—SGŒ‹o˜”³•Ïd9ÚŒE-»î@)U*³kÊŽ7\žñ·.S‰¨RÊBhè·ª’Üª÷ò²ó~Žòöì/ü-/shÑwÅ\)²Õç”§‰rƒÀ´ƒwÞASãnA¤ƒˆÃ–„Z×„ázQGÃ{¿M„Á:	i¼eúù‘«EN‚Ïà¹QFÍ¹Ç L=Š"T|št>“d’´–d}c)Z-ž8½‡–|Ñ8Åv·—€,TéfÐt,\PmÜ«7¢ ²â¾‚¢ó'ÒÃ®b™L¿ D,Ì¢à–Û¦“‰ƒít~r¼‘Èþç®äH¿ïé6´]ükFäÃ:}ÔÕ8xY©¨l`3à];Êör09àí7ÔŒw­®NOQ©þÊ?¨É'²þqmÊ™c³°ÏNŸ?z‚Šˆ–×€pTÐ¦ y‹)õÌY‹ò¯¶OSÑ(	ê²0ÊM&—Ò¦nI‰Só(qê[°âm-‰,WóPq½‹2¬^¯jÕ†.Óòó1qM=O+?Bï7„^P‹_;º,ªìÅ„àÐ-9Gr†Z]" ½¼€@ÎžàœÑpæÞÓrÏL= ­öÉrO¼Ž‹ol~¿~î(­puüþ2L™æb‚Rî™ŸÜ÷¦£ì|8|PÕeFˆGm ?¹=ƒÿ4ðŽóNÓfÃtÙ¯©[á.è]qF}kò¼Íù&q¿ÁeÅß'çåS’É;'ýôusþ|úÛHd‚áPyRŒ	Q_¥Bº«a­öãŽ“+ˆÊ³#&?ƒÉ2Å]ÛÊh2€RÔ	`¹1+ð{õÒi³ZbYS vË4EþÚ1ª:ÑçèÓ×§d1 Fê¬Q5´¤Äv]³M
-_ž!;KÛ?¨£[œî¼xELÐ¬øs{ËM£ ¹bˆb­»/õ:ö=¨%Jn;ØEÈ!ˆnÊ¤mx]ÖaqR7nä»¸W›+k·Ð¯…»sËcÐðæ¾ûrÑÌ5d&ô7óÏÜî£Grà7ˆ†®Qa=ü%~$ùBQâ4d³PÑ©¨JHÙo¾È§ŽÔP«åfqog>¸9Û£*WqÊPÎe.Ñ—W|,?CØy)Q»Ùf^ÐÇ£Ë Äk›'˜©Ï›Áþät´˜®s˜A[AUÞ‹ìþúõÈjçžû†í–97‹ìÆÂ€C>¯Ø4éd+ÎJÃ®0¥M(&Ò=.ô¹R§IŽI¯ÒNÎ†&û¶4±éÑÝØàyºP’Z~|çüWR-áÁâº¼Æž½—H¢FIšÞJ9O*Áj¿ OÒ-rõ&+r­Ü¯îË€ÊýÄÒÏwcTÛžz”ÏèÉ“E>¯Lß;­¼Î²rS•MÇ3¨­ÆˆçIåÉ´ðÑtìOeU
-Ž¶Ö¿âþEGî¯_¯d`È$õ:fdÝ,ž u“ôq›±Û d'Í|¥QÓüîyôW²ÑÚã$ïý|ñ‰ìÇìc<£ªXˆÍaR5àDÛoa–ZÚsìâ
-Tì˜Q¶Öœ+œp›}GµBŸ	+þçu?yßÄþ#°qÜ…xR“Oß•9Xå=LŒ(6Ê™tIÕ¾"®E{î¾Ÿ£4e½ÄÕü0~«ÆYb
-Á¯±]A°…ÛLd
-a5X,1ì&?»ñD³´²jè|Ýý…bÀâjhØÙ]]d$xˆ>úú©öKi˜•jIÆà:i2í»¸ö¶`ÐØì2¥tš–ÚÜ©xß•oèë“¾ì®¬N•eXÜý^\%ªcZÃä¹ä´6QpÌ”=Çð³¼Ä°<n´ŠQWÌV½_Ð	­ôæE}æD×n9üñ¢öçæ=}fw5Ôu­’HÙþå&m*·!¹vŠÓ’²‚ÊÞq>T WPŸ™˜X˜Û‹ìŠ+º‚ òäYhÜø¸ãÅ~çÒ×NMè)ät>ÿ"ÿffÚ5ó?¤ñ|t”H 	ÿàæ8úú«¢È9¤àši\Ù>MÔfL6©5å[ê8üÕFB¯"oEðYîÏ¹û]¼WäÎ{|KÀÖh&Ûït#X&¼ùêèî/=íãÿèáy¥'¦‡i1òˆ¦Åˆ¡G™]þÝ›Š÷;ly˜—EÁÌo³Ê'+2>t¨_KÍ˜:Õìù+ò/m´Œ–Ô_-
-|¦V9\Wê¢ÓÚþér/ÄëäˆŒû8Ð|6Ë#¢ö–ù‘$Êk§R#œ¡ÑÍ)úñ¼{—Å^cAmÜ=«£ÞX¯{â>ÔCŒ-¹>Ñâ.(½)FY5gJùd^·œxÜMöŠù$ð«lÌï­ôòéêñ°âR9MºÝ8<#c«ˆÞo‹«ºâ ÚäGè¼þá;ÿ”‡²ÿfSv¡Œ¸]þ†fDÚs)DÿËx"6áé·¨ÐŽlEdÒšìY›Á\§¾=-ÌNF¨.ÿ{òBdÆ\•>r¶vêº¥ÙÎo{\>öxöÊ®v^ñ1Êû(|¸‡ÂR¹•Î¼eƒ™@Ë‡à¥O¦©é-’NÃF#“øš5lÐ°AçãÕ¤5Î"»6Ì)3øå2£=ð²¼ Äo|^+Þo¨DoNÎ†&û¶4±éÑÝØàyºP’Z~|çüWR-áÁâº¼Æž½—H¢FIšÞJ9O*Áj¿ OÒ-rõ&+r­Ü¯îË€ÊýÄÒÏwcTÛžz”ÏèÉ“E>¯Lß;­¼Î²rS•MÇ3¨­ÆˆçIåÉ´ðÑtìOeU
-Ž¶Ö¿âþEGî¯_¯d`È$õ:fdÝ,ž u“ôq›±Û d'Í|¥QÓüîyôW²ÑÚã$ïý|ñ‰ìÇìc<£ªXˆÍaR5àDÛoa–ZÚsìâ
-Tì˜Q¶Öœ+œp›}GµBŸ	+þçu?yßÄþ#°qÜ…xR“Oß•9Xå=LŒ(6Ê™tIÕ¾"®E{î¾Ÿ£4e½ÄÕü0~«ÆYb
-Á¯±]A°…ÛLd
-a5X,1ì&?»ñD³´²jè|Ýý…bÀâjhØÙ]]d$xˆ>úú©öKi˜•jIÆà:i2í»¸ö¶`ÐØì2¥tš–ÚÜ©xß•oèë“¾ì®¬N•eXÜý^\%ªcZÃä¹ä´6QpÌ”=Çð³¼Ä°<n´ŠQWÌV½_Ð	­ôæE}æD×n9üñ¢öçæ=}fw5Ôu­’HÙþå&m*·!¹vŠÓ’²‚ÊÞq>T WPŸ™˜X˜Û‹ìŠ+º‚ òäYhÜø¸ãÅ~çÒ×NMè)ät>ÿ"ÿffÚ5ó?¤ñ|t”H 	ÿàæ8úú«¢È9¤àši\Ù>MÔfL6©5å[ê8üÕFB¯"oEðYîÏ¹û]¼WäÎ{|KÀÖh&Ûït#X&¼ùêèî/=íãÿèáy¥'¦‡i1òˆ¦Åˆ¡G™]þÝ›Š÷;ly˜—EÁÌo³Ê'+2>t¨_KÍ˜:Õìù+ò/m´Œ–Ô_-
-|¦V9\Wê¢ÓÚþér/ÄëäˆŒû8Ð|6Ë#¢ö–ù‘$Êk§R#œ¡ÑÍ)úñ¼{—Å^cAmòt|BÄƒ¡šî4ûê~ñ=ñ´!j!M·šŽ™pÞP0”¢gþÛEnhKa8@º½¾]­Œø¸ß¶œóì¼tB=CóÓj2×­#€'Þc!Œ}Óìÿb/$±f@ÞØðW	k™»o¶q+à[´j_bµZW/;ÙGÀvU#† ]p‹ÆEý91oéÒ0¤-ÞøêpíF¢]Á-}i†'/W±Óà	ÍCÈ¬Ò¹’=Åyž¯Å‘Gxwç»—·jsª\FÜW«ÌÝ7vyžZUF™üd¶¨`‘”Ñhù†jïb!ÄÌP‡¡?¼T~pHŒ;(þ³Ô!ÚF¶ËYùŸgšÉh9ªxÂ/¶evRŸ,‡%Z&.vôŽÊézã·]óü˜Üîƒæ‰"ëT¢’-ù˜Ç÷‚ ä½rÈ@3Â'³ø-³¥Æ¸¬‹æ3¸·C2Ih‹ÚsåèF#_¬ øÅ—a
-À¯±$Y.ÁYMgñ®Ay	Û#~+Ò=?>(Ø£§Äû*¦úHñTæÐ¥äƒ¶\ÂMù]t‰Ê2ƒäÑXJµ8ú…ŽÉÉD‹îcH¬óÄ|6Ä¤á*å03¬¨À@®I…“F_Àšr„Ê›ï–qPcÔ$Rvò¸ ÷­2+=w\+”2;!–sÞ!Ü\ 	¥tÉE4\øAz^»†
-Û"¾+‚=>nèÔó¢qMŒ¨d“F9¦×¿Ã­ùÀøÍ‰çòž€í}¥ˆþ#ùà'mhŸÌÊº8ª:B­Ä=öôôõ%%´ôÿù=6e¾=Ìüx•¶ªsâ8Í–Ú!óðHI[Ÿ/mY0§Ð>YväC¹C“CÂÉi+Óac‘Ð	ùtð…&ŒõÝ¤Ý¬ñ°IYÛ®y!?ÅTpÁŒøhOƒYu®âyT¿ûtÆb+PzÙQ(ž<¾úþ;>m)Ô{zQnÃ§iBÌ¹aÚ VÙ’Ÿ¨µ#³ºF›ÚæÖ'3ŽÁáUR;9VW‡GGÀ¼òSjR×…#ž§Ö'$éRlŸ9:/î(¸vZ«v‹™óo€ñ= UÏ°<ÜTäOø©ºö{?õxõFe;ñnúR:„v†Ð­>’U‚7•"‡ñ¯	Që¨{Î~Idr¤ê“§ wµËãCL´èêJ‹ò"< t}USÝ_vWF5Oi
-W~Û)q|†Îìý0ü µÐß•!‚L5°’)0šÐd“…Ìn8ÔGšo¶(2òÕà:z!AzßŒ e16­³XÇÈðô+ègö»úkê¢Â|Û5ÞP‡8m…a®¥Q–h:ëÖCÉµòt|BÄƒ¡šî4ûê~ñ=ñ´!j!M·šŽ™pÞP0”¢gþÛEnhKa8@º½¾]­Œø¸ß¶œóì¼tB=CóÓj2×­#€'Þc!Œ}Óìÿb/$±f@ÞØðW	k™»o¶q+à[´j_bµZW/;ÙGÀvU#† ]p‹ÆEý91oéÒ0¤-ÞøêpíF¢]Á-}i†'/W±Óà	ÍCÈ¬Ò¹’=Åyž¯Å‘Gxwç»—·jsª\FÜW«ÌÝ7vyžZUF™üd¶¨`‘”Ñhù†jïb!ÄÌP‡¡?¼T~pHŒ;(þ³Ô!ÚF¶ËYùŸgšÉh9ªxÂ/¶evRŸ,‡%Z&.vôŽÊézã·]óü˜Üîƒæ‰"ëT¢’-ù˜Ç÷‚ ä½rÈ@3Â'³ø-³¥Æ¸¬‹æ3¸·C2Ih‹ÚsåèF#_¬ øÅ—a
-À¯±$Y.ÁYMgñ®Ay	Û#~+Ò=?>(Ø£§Äû*¦úHñTæÐ¥äƒ¶\ÂMù]t‰Ê2ƒäÑXJµ8ú…ŽÉÉD‹îcH¬óÄ|6Ä¤á*å03¬¨À@®I…“F_Àšr„Ê›ï–qPcÔ$Rvò¸ ÷­2+=w\+”2;–sÞ!Ü\ 	¥tÉE4\øAz^»†
-Û"¾+‚=>nèÔó¢qMŒ¨d“F9¦×¿Ã­ùÀøÍ‰çòž€í}¥ˆþ#ùà'mhŸÌÊº8ª:B­Ä=öôôõ%%´ôÿù=6e¾=Ìüx•¶ªsâ8Ï–Ú!óðHI[Ÿ/mY0§Ð>YväC¹C“CÂÉi+Óac‘Ð	ùtð…&ŒõÝ¤Ý¬ñ°IYÛ®y!?ÅTpÁŒøhOƒYu®âyT¿ûtÆb+PzÙQ(ž<¾úþ;>m)Ô{zQnÃ§iBÌ¹aÚ VÙ’Ÿ¨µ#³ºF›ÚæÖ'3ŽÁáUR;9VW¶vCÚ¦rÓ(Ý’/§Ö2 {óHìx}30ž_iù¾’:ç(±:PôšVàµŽñôÅÞ(¼ºù;“ÂæZöJñjïÆåç~1@ßúRµr‚Ê-¾è_3†ÔcO9>˜kÑ¸º"„’å«[o±æñ@à8Àƒªkò"pyOI]ß-L„þi
-fOß3kü´wæ÷Máô€¸ï–ÄæB[z0%ÒËM]ÿ;¥w3îÝÈÒÃää>`;Áú¥ö*—Ô¥1œ·\ÝÒptQ’mü¦
-»F£"3S.Fx–ªfn;gØ,\M©?4k¬Ë™Ÿ¢y()UòEMFÀ™»ƒ”~>ñ[ÏñÀ°%p¡ÍÍà„(ÁŸø\ˆ3].]x1j~ˆ« yˆr,/&g¾øŒÓ´V|óìEF'YsSHÝ§’1'ÞRˆyÉlU. ×Ÿ8Æ˜)Q:Â@ »Fõ¢—ó$>`ôŒO­e, –U#·‘Yj‘FÅ‡f3;ÞXÒ0•ÚüðjmÆØ'ËœÌ(TNï¾Æ‹éCª¹7£Ç2YÓ|±>ÿ«äÛ“ÐüWŠsªmwØS±Ö]·”Pä÷¨Í`¬”(ëšž`£)¸N¢~óþo¤$óÊT\´?1€Dª¹Ä‰w‚®i-V+hÈ›c€IèC{ rs®/¶T¾
-…lH„Vý/P—·o7<F[x@Ùþ‡ˆó·}Â§AêzÅ˜¨ŽZì³œäb@ä½CùD7Ø=3x`W¹¯¹w¸¬º5â)¢7c98CÙ:›R»-y×e.TŒ®twì KgŒ c¬µ-&NAy8ê'z1È½¿D"ÒÄÊ¢þRëÔfªßî‰íƒ1•å³ð‘ dº}¸ªôy×24ó³¡½0à…ƒ¨¬óõM2À¾û™ªŸJ9¦q@®x´—BEÚòþ°‘å'À[«µÃLªQtƒöpMosjõ¿Íº®˜¢âqµÁ<\¡1¡nÓÅ´&‚Kp¼ï»†;ê&º1˜½ƒDâÞB0DU9õ©|š£Ë¨ÆõÌ0‰³ÝQ=ô™{Ehþ#ÈÑ#ir…LJÀB ‹ó­õòðîï¥¥ÎŽõHŒw$vË¬]ÆB6Þ‰S-v›`;8ÙØ!a<Œ-[Ì0ÞY2GàG£Y9¸Ãcšbac áýnê¦ö×u,Nœd9!Øcá,UT®´÷1€D0ùÞ¹cÖ–?Ô”Æba~ÝK2¼}ÄðOŠ>må~Kîž¹ÝcH¢}ø ÈÇ)2z1ëÜÞHSýûSwG	-b•a>9ÛÙVW¶vCÚ¦rÓ(Ý’/§Ö2 {óHìx}30ž_iù¾’:ç(±:PôšVàµŽñôÅÞ(¼ºù;“ÂæZöJñjïÆåç~1@ßúRµr‚Ê-¾è_3†ÔcO9>˜kÑ¸º"„’å«[o±æñ@à8Àƒªkò"pyOI]ß-L„þi
-fOß3kü´wæ÷Máô€¸ï–ÄæB[z0%ÒËM]ÿ;¥w3îÝÈÒÃää>`;Áú¥ö*—Ô¥1œ·\ÝÒptQ’mü¦
-»F£"3S.Fx–ªfn;gØ,\M©?4k¬Ë™Ÿ¢y()UòEMFÀ™»ƒ”~>ñ[ÏñÀ°%p¡ÍÍà„(ÁŸø\ˆ3].]x1j~ˆ« yˆr,/&g¾øŒÓ´V|óìEF'YsSHÝ§’1'ÞRˆyÉlU. ×Ÿ8Æ˜)Q:Â@ »Fõ¢—ó$>`ôŒO­e, –U#·‘Yj‘FÅ‡f3;ÞXÒ0•ÚüðjmÆØ'ËœÌ(TNï¾Æ‹éCª¹7£Ç2YÓ|±>ÿ«äÛ“ÐüWŠsªmwØS±Ö]·”Pä÷¨Í`¬”(ëšž`£)¸N¢~óþo¤$óÊT\´?1€Dª¹Ä‰w‚®i-V+hÈ›c€IèC{ rs®/¶T¾
-…lH„Vý/P—·o7<F[x@Ùþ‡ˆó·}Â§AêzÅ˜¨ŽZì³œäb@ä½CùD7Ø=3x`W¹¯¹w¸¬º5â)¢7c98CÙ:›R»-y×e.TŒ®twì KgŒ c¬µ-&NAy8ê'z1È½¿D"ÒÄÊ¢þRëÔfªßî‰íƒ1•å³ð‘ dº}¸ªôy×24ó³¡½0à…ƒ¨¬óõM2À¾û™ªŸJ9¦q@®x´—BEÚòþ°‘å'À[«µÃLªQtƒöpMosjõ¿Íº®˜¢âqµÁ<‹JòbîB^ãc)üÇE­h¹ÅY¨%KUi»ê¯“ÜÍŒ@.ûêu^6w¹US¨«<4Z!M	d§Ê	$è5›‚ÀŠBµêìÏM¶r
-»¦_ÞßÁ²B±uè»îSèAÅFe#ú8âa:ÿ£ lm¦æLüäÐê}|’Oa¤“i¶µ6·tÔc›wuó²î^Ú£ ù€`ÂìÕÑü¡”mäf}\ð¨åø»®Ü¨Lk>ä¦}kðŽeWØÐtI2>{¸rËGµ¶s({K¶œ;{H8¶ÒÔÿ[„g¿ŠPr©®µ
-A!où±d˜ËŠÂòšŽ]hœˆ—•@Aå% ðê–Ôu'j8kÖ±ÀaEÃ˜ÃxJ¹wr„‡g¦öf&
-R¯6J æ	+ç¬ùnlŒ8pY¯ÌÊÆ"sªà]áZß`Cèq¬†¹&ìDXæ‘a>ú‹ç
-è¥ÊKü×¡‹-ìV{ÈòG¤“ÈÞz4Ã÷Sv0Å=20æ'ä4^B“šyûy"£û}5<â[Z »xQ@x´~k€5±œ?Ÿæ9óê6|ºMSÕèJ…¼ÕÎµl„ž†·ÝPg\ªù -\'TÏT¿íâÖÒ^ÚK_ó$Ù;º†æ©ÁæW›ßŠ+”³ÃÕ1Šì+»éb_È™eä¥#©‹%¼›q‰F¢6ç_“SÆ/@kÂï3®Ñ8 Ž`Ä=†Ú©-Ì—´ÏÄç¿æê™š¡àÎ~qb0åúÞó¥iÕõGjkÈ1ÈCkš=ùÊÙZ¬™ù.ž ˆ s-®ÖJhæ?«ñL÷Ùj:F‘¹ç„ü²PÔlÚC5äÂàºZ¡àcˆi„Œ'¡Ä&ÆO9ÀZË`×(|¼e5·ËÖwsn3ÚDÊv~Lã•)º‹x,”«þnaMÆe¼>$;°æû#ç—ûžèƒœ32Žä-)™Z¶'Ö:ËFœyÔÙ{åø ®ÜCòS”œÎg—;›x€°2ïNLtÅŠW9 íéf\x"¹Yò˜çnNð¨¤ÞîÍÇ^dŽzuBB1]8ÙrÏp/þ*N-U.ò«ª§Ôè•ÞoX@Ž®ºéfå’‘¶l6ô ÃÍ#µÌbžâ^©qÅ; ¿Ôÿ9•™äÜýHÐ—½]Wok¹Ä™øK
-•eëïÒ™HAbÛrÀ¥ÐY>þ“©«P4wáP™mÌôækæOª¡ª³tÃÑ@ÍQ4Ïäºå¦Ñ#ŽË?EŽàˆV¸+çt¡uê¼Tñ¿&RÞ9ÄŽ3„ vË-!k‰~GÁ#ìõm'x)èÒŒ©p‹JòbîB^ãc)üÇE­h¹ÅY¨%KUi»ê¯“ÜÍŒ@.ûêu^6w¹US¨«<4Z!M	d§Ê	$è5›‚ÀŠBµêìÏM¶r
-»¦_ÞßÁ²B±uè»îSèAÅFe#ú8âa:ÿ£ lm¦æLüäÐê}|’Oa¤“i¶µ6·tÔc›wuó²î^Ú£ ù€`ÂìÕÑü¡”mäf}\ð¨åø»®Ü¨Lk>ä¦}kðŽeWØÐtI2>{¸rËGµ¶s({K¶œ;{H8¶ÒÔÿ[„g¿ŠPr©®µ
-A!où±d˜ËŠÂòšŽ]hœˆ—•@Aå% ðê–Ôu'j8kÖ±ÀaEÃ˜ÃxJ¹wr„‡g¦öf&
-R¯6J æ	+ç¬ùnlŒ8pY¯ÌÊÆ"sªà]áZß`Cèq¬†¹&ìDXæ‘a>ú‹ç
-è¥ÊKü×¡‹-ìV{ÈòG¤“ÈÞz4Ã÷Sv0Å=20æ'ä4^B“šyûy"£û}5<â[Z »xQ@x´~k€5±œ?Ÿæ9óê6|ºMSÕèJ…¼ÕÎµl„ž†·ÝPg\ªù -\'TÏT¿íâÖÒ^ÚK_ó$Ù;º†æ©ÁæW›ßŠ+”³ÃÕ1Šì+»éb_È™eä¥#©‹%¼›q‰F¢6ç_“SÆ/@kÂï3®Ñ8 Ž`Ä=†Ú©-Ì—´ÏÄç¿æê™š¡àÎ~qb0åúÞó¥iÕõGjkÈ1ÈCkš=ùÊÙZ¬™ù.ž ˆ s-®ÖJhæ?«ñL÷Ùj:F‘¹ç„ü²PÔlÚC5äÂàºZ¡àcˆi„Œ'¡Ä&ÆO9ÀZË`×(|¼e5·ËÖwsn3ÚDÊv~Lã•)º‹x,”«þnaMÆe¼>$;°æû#ç—ûžèƒœ32Žä-)™Z¶'Ö:ËFœyÔÙ{åø ®ÜCòS”œÎgzúÂb¬T–ÂcÃûÔT‰ÔMþ=²z^”Ö}[$°=e}+„ó¥ªü¸aõ «)–ÅõƒWÎ‘“ë~\FéSs Î+¸óà×ÍÛžPCWŸ1Õ?´¼›ã¹L7þÉ úl*„D8#v®¡{kðrI&ßsC>¡€—)Rº‚’@M'Þ64Ä…V¦51ü?`±•ÉDý_í*_šý ÊÑ^pÔM¶î­œ-F²µr¤¶¦+–sGLi®¾¬ŸïŠŸ´W_ç÷¨í!ÊMÒ>V»UÒ uSÌ‘y~0å‘ ç	Cê]æ÷\V¡ùQs!8´þžéóU•¯ÀSºÝ f§›:–xÅN?¦?›È@}‘@'Ž6Ä”–ªe4b^j¦ô!—é§ÉéÓžqDMÚî€\0Ö»tYtØb{^d“ÇÁ@ÂuÔ¬ÔVô_¦ÅÇøù..Nqo«%v7Šÿ›;ü%†\1jÉ2zyŠ‹|<1;TÃ,Â¢î˜í×pµO›˜¹8·½Eš˜
-K:ÊxüŽ-v£2Î%xr‹>¼ !/w[¡¨ëcÒqªä>Û ´/0Ûˆ=™°ËIê]$•7ýD„vh­Å–²OHI]e9]<…ZªrS‰”Otow<ÉþÑGOá©US$@T o·C16ÇÅ­¬Üt$Ì°ùX¨©ûµ\-˜¼Lå^g”øýGD¹x;«ÿÓi´uì7]9Ö•Yü©Ü£µUÞ–ƒu±·ÛœÍúFüà¤5Æ|ùMngþoEgø©¡EµÜ¦5h…+f¡†1xmË6Œµ-˜-˜Ž·ù.âµÒ¬MíâŒŽ¶w	Ù§»GNY_ÖTŒ­`8£Ù’ñÌåè6%}w4÷’ƒ¦j³¦YVÓWFåâ›æÄMTf,w€Š¬_f¨zÌÒÔÎàkiNÓ	v-Jq%v^ãó‚îÊ­6€kËÄûÿÑˆ-éâc` su›ˆDa4{Ä~èlg6ñÆ”½€v'5Iè	ïçž÷ž­‘þJ…|è
-å¦j‡	f*FM`ðmæÍC¹Û` sPuH
-q”·r+É3|{:³Ú®Ü»J`'ï'q1OøØÈ©ÓµÜ%øº¿Nßçô˜ÕoZ'ðSÍQy•Ët79àO§§ãÖ wc=ùmj#<Š®Ø;4n|‡ÍNæGOù)Ë?¶íËæ|æMX§¿»ëz®í•Ö´N§›¬È.E.Lð\m¢öéÖ!±ßóK–ˆQÇÝïd§ÀÖ<Œƒà$ÃÐz÷g<Wº£škîêG„{êã- F£b©ÑÅ[@¨mcÁùê™ÔzŒK"pJ7zúÂb¬T–ÂcÃûÔT‰ÔMþ=²z^”Ö}[$°=e}+„ó¥ªü¸aõ «)–ÅõƒWÎ‘“ë~\FéSs Î+¸óà×ÍÛžPCWŸ1Õ?´¼›ã¹L7þÉ úl*„D8#v®¡{kðrI&ßsC>¡€—)Rº‚’@M'Þ64Ä…V¦51ü?`±•ÉDý_í*_šý ÊÑ^pÔM¶î­œ-F²µr¤¶¦+–sGLi®¾¬ŸïŠŸ´W_ç÷¨í!ÊMÒ>V»UÒ uSÌ‘y~0å ç	Cê]æ÷\V¡ùQs!8´þžéóU•¯ÀSºÝ f§›:–xÅN?¦?›È@}‘@'Ž6Ä”–ªe4b^j¦ô!—é§ÉéÓžqDMÚî€\0Ö»tYtØb{^d“ÇÁ@ÂuÔ¬ÔVô_¦ÅÇøù..Nqo«%v7Šÿ›;ü%†\1jÉ2zyŠ‹|<1;TÃ,Â¢î˜í×pµO›˜¹8·½Eš˜
-K:ÊxüŽ-v£2Î%xr‹>¼ !/w[¡¨ëcÒqªä>Û ´/0Ûˆ=™°ËIê]$•7ýD„vh­Å–²OHI]e9]<…ZªrS‰”Otow<ÉþÑGOá©US$@T o·C16ÇÅ­¬Üt$Ì°ùX¨©ûµ\-˜¼Lå^g”øýGD¹x;«ÿÓi´uì7]9Ö•Yü©Ü£µUÞ–ƒu±·ÛœÍúFüà¤5Æ|ùMngþoEgø©¡EµÜ¦5h…+f¡†1xmË6Œµ-˜-˜Ž·ù.âµÒ¬MíâŒŽ¶w	Ù§»GNY_ÖTŒ­`8£Ù’ñÌåè6%}w4÷’ƒ¦j³¦YVÓWFåâ›æÄMTf,w€Š¬_f¨zÌÒÔÎàkiNÓ	v-Jq%v^ãó‚îÊ­6€kËÄûÿÑˆ-éâc` su›ˆDa4{Ä~èlg6ñÆ”½€v'5Iè	ïçq÷­‘þJ…|è
-å¦j‡	f*FM`ðmæÍC¹Û` sPuH
-q”·r+É3|{:³Ú®Ü»J`'ï'q1OøØÈ©ÓµÜ%øº¿Nßçô˜ÕoZ'ðSÍQy•Ët79àO§§ãÖ wc=ùmj#<Š^(1ù£dŸUÖÈ)»³ÌJÙ;š þd~Õ—hCƒŽÞ†ú÷Vê’'EÈ!– D´ß}Ò´[jSoP,¼SÑx¡ëñ"©¿ØN¤CLØöåŠ.Kñš¢‡;U¤r±‡÷*§·Rä/ÜI×Ú2‘Ÿ9ýþíh%ü	F®üÐ­Š
-îNa™ŽZû4(úa¼$½Ò8ðbF—²§Ø…¥Á™…ÿ,ìuŸu¨§p4ˆûl	øS.‘4ÑÃœgäÆï¶Å¾ÍÖ3 k/1'«e³§<³ü'¬$,v°ËË(5ü”-ƒµÉ¥„{£-÷ñjŽå±ÞØt²Ï'š¥—ÈJr¾lÝ€?Æ®¬JªZ ÏLX\åÇuåfÿ-¢ˆ,J±\«K¿9þ>,Z×n‹@K˜_8*’c.§øsËÈ:°õŠ¹Ð±.cK¥þ2m¸KÔ	á±ÿm5Òõ¿¥á—àÚ[¬uóËéÝÄL™î¤)Í^›6Gº–W'·÷[`ÝÖ§iÍÃø®ý°½lÜ@?–®[jVPž¢ýìm¡ÐŽŒä+EsŸ/b‰¼JÝqÚ¶Û¶•øÃîõ(NWÙ“|‹_Y‰(™á¦sŠ
-àá¶¶Á}ZžÙŠÏrø	jî½žñ(
-Ð«ð5Î‚ŒÍ·6ØO¶XR´Á½­W v÷Këˆpjh&g÷`äµ¹À_ý>à2Ý€uŒÏM†§"z×-2qŸ.ý‰­ŠÏ]†¹"¼WÍiœç„'E<¯2‹xŠ]˜5fžc…„Eýö’ëÀ°oVŽ«q“H…žñºÄó]ËÕ{U©ê«#±¥¦éºN½º]_]\0ð¹éÔ¨aÀ_gU€=¬Ý´ÚýFÿ72»¸ŒMÇW+n³„±Û4ÛÕf3 _M­Ù‘r„71ÖA`ÜýÌˆødáÕö¨1“¹RÍñY3ˆx Ä>­§J×š!”zÍö€jÌÇ}€3 •–¡KâÖå²#]Ëkï ,íù)‹—ŠƒAGNÌCbœÄ–ìbàÉ%û=eïû8n“_OZ¡®ÔP·dëÉÁØü¶‹|rô	«®—.üÁ‡^NT›EbÄn5Òéê¹¢Æ·:M¦ÓÜcgÝåt´è›g‚êó…Ií¸á^‚òôk`Ç @°ú«¯ÓùÃË¼:—µ	Û1¶yIÝúŠFJß~²Þ‚¯‘:Ó1¿AåÜgñ‚ÖóE†ý-Ž×1Ëx{ŠË5…×£P7ÐúøçÃê¼)W`@_U/€#,ÕÔ–rƒÇlW“¦Å¯1©’Ì…ý±“4í™Ã†=è[.§p’Ì`‚æ¯¦^(1ù£dŸUÖÈ)»³ÌJÙ;š þd~Õ—hCƒŽÞ†ú÷Vê’'EÈ!– D´ß}Ò´[jSoP,¼SÑx¡ëñ"©¿ØN¤CLØöåŠ.Kñš¢‡;U¤r±‡÷*§·Rä/ÜI×Ú2‘Ÿ9ýþíh%ü	F®üÐ­Š
-îNa™ŽZû4(úa¼$½Ò8ðbF—²§Ø…¥Á™…ÿ,ìuŸu¨§p4ˆûl	øS.‘4ÑÃœgäÆï¶Å¾ÍÖ3 k/1'«e³§<³ü'¬$,v°ËË(5ü”-ƒµÉ¥„{£-÷ñjŽå±ÞØt²Ï'š¥—ÈJr¾lÝ€?Æ®¬JªZ ÏLX\åÇuåfÿ-¢ˆ,J±\«K¿9þ>,Z×n‹@K˜_8*’c.§øsËÈ:°õŠ¹Ð±.cK¥þ2m¸KÔ	á±ÿm5Òõ¿¥á—àÚ[¬uóËéÝÄL™î¤)Í^›6Gº–W'·÷[`ÝÖ§iÍÃø®ý°½lÜ@?–®[jVPž¢ýìm¡ÐŽŒä+EsŸ/b‰¼JÝqÚ¶Û¶•øÃîõ(NWÙ“|‹_Y‰(™á¦sŠ
-àá¶¶Á}ZžÙŠÏrø	jî½žñ(
-Ð«ð5Î‚ŒÍ·6ØO¶XR´Á½­W v÷Këˆpjh&g÷`äµ¹À_ý>à2Ý€uŒÏM†§"z×-2qŸ.ý‰­ŠÏ]†¹"¼WÍiœç„'E<¯2‹xŠ]˜5fžc…„Eýö’ëÀ°oVŽ«q“H…žñºÄó]ËÕ{U©ê«#±¥¦éºN½º]_]\0ð¹éÔ¨aÀ_gU€=¬Ý´ÚýFÿ72»¸ŒMÇW+n³„±Û4ÛÕf3 _M­Ù‘r„71ÖA`ÜýÌˆødáÕö¨1“¹RÍñY3ˆx Ä>­§J×š!”zÍö€jÌÇ}€3 •–¡KâÖå²#]Ëkï ,í7ç–ŠÔÝ±·5·vWWŽô¬ÏýÔ{¥Í•”nÎýì‹GQ^»?¡Ö¯óÑ©°LÀ7‚fÄ"œNÙï6þäÞUX@šžÅ©’ßŒ1ŒÞ¯Ðôœø#,+èvç¬ ^£êkh7_A¯Q…ÐQîÉ¹àrµò ¨•’ÃcÖ7ÞÖâdgEërî%êQÅ4Û—[áŽÉ¥·šŸ"Ëzô±³D7dA]î•¾ÅœÁ;?~‡7Ï»8_`J6)Þ´âÙ§;j2Æ¼˜;âÉ‹,Ýó7b/ 5
-ÝäzYqý£0H!,õñ«6£ëÞÈ'yÍµxšŽÇ æ,
-§ý”o.­ý( ÔRõ‡~X”®¢]Ð–ÆÍ±¦…ý’ðz“Ž H,o6™Dø4æ²Ýâ4¤;a¼¶oöì|÷O(5ßvyKîýDÉ3V¯ÄRýü@`‘…j©Ì]ëEÈçVÄ!¿j‚ÚÔÉ‘‚ÝN»™^Æ”`DÄóS?Ç~ü!€9»iy¤êsÏ%®!’¶ìw,‡4K½ŠÒu`CYÀ-Ç°¿\8K'B£Aþ±·cÛ„wTv!xØbà“&Ã[-¢´³}}i!®¢F×\_xC#XÓ0~·òdBì |6c»EŸAÚÅ®A.·z•´‚Íç'x„¼£qƒÞÏ6Õ×>9ÉÂQ€Z¬¼Ð¥õ’çféxÜ%Þªé¨S§Q–Žœœž{/$-êŠ˜Šnµži6nÖ–d@ñÂå0"½{…kã/3æ»$rš„ÊŠþ-Ê¾ôâUŽøU³h"C´›{Y–¼öö·¡›ÕFó^÷
-X™:ª©-­Ü\øPk¶å~C q‚ÏfÕë>nùÅHÕéÎ°e£<”üC-Ã/d)yL%²ªÄhÃ®ýs^;æSJ‡ÍŒ{$"º8»ùhÊn—VTÍÍ´ôîB†’Á?‚—fß[,é0b¸@~…rqâã8xµ.°'èœÐ©ÜDã]§x{CÂØxh¤¦;z©YmÎŒõÌn&«y-pãzø4:b¿E‚ÁÔeyÂå zï4¡:Ô?-¢§úÚyµÌvÔ¾ëE€û¨ƒ~ÛÚõµ†öÃ§xS¨wÅ[ü'0+CÜë5£eËâ[L|[¢VÕÒíï“’-íç·$X»jRÆ”˜%b©„ß¶„w(+”UŒ÷ÛÜ1¨i,Ãq½Öƒk½]¶þÇ1…ƒÎx)ÐlÂ3Ñ•¦U”® *JÕ?—.Ö&ð4EÖ’D	9Œ1†p£rÈ28þÉ²¤ N&ŠÝ–èyÙ÷hjœ]7ç–ŠÔÝ±·5·vWWŽô¬ÏýÔ{¥Í•”nÎýì‹GQ^»?¡Ö¯óÑ©°LÀ7‚fÄ"œNÙï6þäÞUX@šžÅ©’ßŒ1ŒÞ¯Ðôœø#,+èvç¬ ^£êkh7_A¯Q…ÐQîÉ¹àrµò ¨•’ÃcÖ7ÞÖâdgEërî%êQÅ4Û—[áŽÉ¥·šŸ"Ëzô±³D7dA]î•¾ÅœÁ;?~‡7Ï»8_`J6)Þ´âÙ§;j2Æ¼˜;âÉ‹,Ýó7b/ 5
-ÝäzYqý£0H!,õñ«6£ëÞÈ'yÍµxšŽÇ æ,
-§ý”o.­ý( ÔRõ‡~X”®¢]Ð–ÆÍ±¦…ý’ðz“Ž H,o6™Dø4æ²Ýâ4¤;a¼¶oöì|÷O(5ßvyKîýDÉ3F¯ÄRýü@`‘…j©Ì]ëEÈçVÄ!¿j‚ÚÔÉ‘‚ÝN»™^Æ”`DÄóS?Ç~ü!€9»iy¤êsÏ%®!’¶ìw,‡4K½ŠÒu`CYÀ-Ç°¿\8K'B£Aþ±·cÛ„wTv!xØbà“&Ã[-¢´³}}i!®¢F×\_xC#XÓ0~·òdBì |6c»EŸAÚÅ®A.·z•´‚Íç'x„¼£qƒÞÏ6Õ×>9ÉÂQ€Z¬¼Ð¥õ’çféxÜ%Þªé¨S§Q–Žœœž{/$-êŠ˜Šnµži6nÖ–d@ñÂå0"½{…kã/3æ»$rš„ÊŠþ-Ê¾ôâUŽøU³h"C´›{Y–¼öö·¡›ÕFó^÷
-X™:ª©-­Ü\øPk¶å~C q‚ÏfÕë>nùÅHÕéÎ°e£<”üC-Ã/d)yL%²ªÄhÃ®ýs^;æSJ‡ÍŒ{$"º8»ùhÊn—VTÍÍ´ôîB†’Á?‚—fß[,é0b¸@~…rqâã8xµ.°'è ì”á eŸž'¦bÂu˜šGM½¨,‹(è‘vÔúÃÆÖ‹³JCÁ•´0h8Âå¦kÚö‚kL™CN•«0S¸JÅ?›¼Ç>ô2cÚQ£ eÇ”¾C?>Í`§ÃÂéM’¢z zUŽ	â©Öá²$¬¡]á åÕ=)µú¨\RUŠˆ¯®ÐS`ü]6|.}À^/”°`;5Žb‘bc’‘q°3£ ¨u‘¢È&Éö:±äÔ«F¦Wþ$"Äÿ®·þì¨B±¬)Hkù`º¯0«­2ÂÈ£0öþ³ÜiŽ9ý‹¬
-Kñ“ 2‡yNÕÃ¿ñéÝ#t¯ÑØxýïíû:Û«·09‰ÓQ3µíkóÀéŸAõ­rˆªiGVn¢»®ª¥–;˜wùÛ.7+aˆyÿÏm"=ïÓh±™ƒâieB¤~¦ýOt»è‹6;JìÈ¡:÷þúOŒÌ]Iåá¡Áfà—[W6‰vÿ­¦KŒS¢ŸDxêãë€_}”Š`ŸP´ çªfðeÙ¶/CÓþ%¸Ç.ÅKJî¡}ÅàWiÙúz#:À¾½G&–Å±¿Ø-
-+ãPáŸýÝV|}ÞÞ'ô¶È9ËâñKºï8[Å¢ŠT
-	q¢€&ÿv,Qê¯%a¶@lr	@qÇ¬Ú7C¬WÈK™x’š1·+É3ºš¼6¬ãHÆ9jªs#rü],T«ÉÛ2„
-Ï«c‰&¿¬ß‹|C>®¼ÛŠSËÑ˜
