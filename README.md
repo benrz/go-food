@@ -68,3 +68,9 @@ Console application insipired by Go-Food for online food delivery built using C.
   <img src="docs/9.png">
 </p>
 <br>
+
+## Contributors
+* Benny Richardson
+* Kevin Hendy
+* Ventryshia Andiyani
+* Wilson Philips
